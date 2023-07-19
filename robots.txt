@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sysecai.github.io//sitemap.xml
+Sitemap: https://syssecai.github.io//sitemap.xml
