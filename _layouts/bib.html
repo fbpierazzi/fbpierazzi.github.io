@@ -29,10 +29,9 @@
 
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
-        <!-- Title -->
-        <div class="title">{{entry.title}}</div>
+        
         <!-- Author -->
-        <div class="author">
+        <span class="author">
         {% assign author_array_size = entry.author_array | size %}
 
         {% assign author_array_limit = author_array_size %}
@@ -105,7 +104,11 @@
           >{{more_authors_hide}}</span>
         {%- endif -%}
 
-        </div>
+            </span>
+        <!-- Adding comma -->
+        ,
+        <!-- Title -->
+        <span class="title">{{entry.title}}</span>
 
         <!-- Journal/Book title and date -->
         {% assign proceedings = "inproceedings,incollection" | split: ','%}
@@ -127,11 +130,14 @@
         {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
         {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
-        <div class="periodical">
+        
+        <!-- Adding comma -->
+        ,
+        <span class="periodical">
           {{ periodical | strip }}
-        </div>
+        </span>
         <div class="periodical">
-          {{ entry.note | strip }}
+          <b><font color="red">{{ entry.note | strip }}</font></b>
         </div>
 
           <!-- Links/Buttons -->

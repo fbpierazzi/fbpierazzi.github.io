@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b>Senior Lecturer (Associate Professor)</b> in Computer Science at King's College London<br/>Deputy Head of the Cybersecurity Group in Informatics<br/>Programme Leader of the MSc in Cyber Security
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office BH(N)7.16</p>
+    <p>Dept. Informatics</p>
+    <p>King's College London</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am invested into understanding how AI can be used to improve systems security tasks, with a particular emphasis on settings in which attackers adapt quickly to new defenses. In this context, I am currently exploring how to measure, mitigate and prevent concept drift in ML-based detection systems; how to measure and improve robustness of systems to adversarial attacks while taking into account problem-space constraints (such as preserving semantics of modified code); and how to explain what these systems are doing, both from an attacker's and a defender's perspective.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I also care deeply about the practicality of our proposed solutions, and on understanding implications and limitations of using AI in the context of computer security. To this purpose, I also regularly engage and collaborate with industry. I mostly work on malware analysis and network traffic, but I am becoming more interested in understanding inner workings of AI and ML models to improve their trustworthiness in more general security scenarios. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am always looking for motivated students and collaborators passionate about these topics. If you are interested in joining my team, or even just visiting, have a look [here](/opportunities/).
+

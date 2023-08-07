@@ -2,83 +2,375 @@
 ---
 
 @string{aps = {American Physical Society,}}
+@string{ieeespmag   = {IEEE Security \&
+                   Privacy Magazine}}
 
-@book{einstein1956investigations,
+@string{ieeesp   = {{IEEE} Symposium on Security and Privacy ({S\&P})}}
+@string{satml   = {{IEEE} Conference on Secure and Trustworthy Machine Learning ({SaTML})}}
+@string{usenixss = {Proc. of {USENIX} Security Symposium}}
+@string{ndss = {Proc. of Network and Distributed System Security Symposium ({NDSS})}}
+@string{ccs = {Proc. of {ACM} Conference on Computer and Communications Security ({CCS})}}
+@string{tissec = {{ACM} Transactions on Information and System Security ({TISSEC})}}
+@string{     eurosp = {Proc. of the {IEEE} European Symposium on
+                       Security and Privacy ({EuroS\&P})}}
+@string{tcc = {{IEEE} Transactions on Cloud Computing ({TCC})}}
+@string{tifs = {{IEEE} Transactions on Information Forensics and Security ({TIFS})}}
+@string{tdsc = {{IEEE} Transactions on Dependable and Secure Computing ({TDSC})}}
+@string{aisec = {Prof. of the {ACM} Workshop on Artificial Intelligence and Security ({AISec})}}
+
+@article{CavKinPen+23,
+  abbr={IEEE S\&P Mag},
   bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+  author={Cavallaro, Lorenzo and Kinder, Johannes and Pendlebury, Feargus and Pierazzi, Fabio},
+  journal=ieeespmag, 
+  title={Are Machine Learning Models for Malware Detection Ready for Prime Time?}, 
+  year={2023},
+  volume={21},
+  number={2},
+  pages={53-56},
+  doi={10.1109/MSEC.2023.3236543}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@inproceedings{edu2022exploring,
+  title={Exploring the security and privacy risks of chatbots in messaging services},
+  author={Edu, Jide and Mulligan, Cliona and Pierazzi, Fabio and Polakis, Jason and Suarez-Tangil, Guillermo and Such, Jose},
+  booktitle={{ACM} Internet Measurement Conference ({IMC}) -- Short Paper},
+  pages={581--588},
+  year={2022},
+  abbr={IMC (Short)},
+  pdf={imc22_chatbot.pdf},
+  bibtex_show={true}
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
+@inproceedings{chen2023overkill,
+  title={Is It Overkill? Analyzing Feature-Space Concept Drift in Malware Detectors},
+  author={Chen, Zhi and Zhang, Zhenning and Kan, Zeliang and Yang, Limin and Cortellazzi, Jacopo and Pendlebury, Feargus and Pierazzi, Fabio and Cavallaro, Lorenzo and Wang, Gang},
+  booktitle={{IEEE} Deep Learning Security and Privacy Workshop ({DLSP})},
+  year={2023},
+  abbr={DLSP},
+  pdf={DLSP23_Feature_drift.pdf},
+  bibtex_show={true}
+}
+
+@inproceedings{yang2023jigsaw,
+  title={Jigsaw Puzzle: Selective backdoor attack to subvert malware classifiers},
+  author={Yang, Limin and Chen, Zhi and Cortellazzi, Jacopo and Pendlebury, Feargus and Tu, Kevin and Pierazzi, Fabio and Cavallaro, Lorenzo and Wang, Gang},
+  booktitle=ieeesp,
+  year={2023},
+  abbr={IEEE S\&P},
+  pdf={IEEESP23_Jigsaw_Puzzle.pdf},
+  supp={IEEESP23_Jigsaw_Puzzle_Supplementary_Materials.pdf},
+  slides={IEEESP23_Jigsaw_Puzzle_slides_LiminYang.pdf},
+  bibtex_show={true}
+}
+
+@inproceedings{ArpQuiPen+22,
+  abbr={USENIX Sec},
+  bibtex_show={true},
+  title={Dos and don'ts of machine learning in computer security},
+  author={Arp, Daniel and Quiring, Erwin and Pendlebury, Feargus and Warnecke, Alexander and Pierazzi, Fabio and Wressnegger, Christian and Cavallaro, Lorenzo and Rieck, Konrad},
+  booktitle=usenixss,
+  year={2022},
+  selected={true},
+  note = {Distinguished Paper Award},
+  arxiv={2010.09470},
+  website={https://dodo-mlsec.org}
+}
+
+
+@inproceedings{apruzzese2023real,
+  title={Position: “Real Attackers Don't Compute Gradients”: Bridging the Gap Between Adversarial ML Research and Practice},
+  author={Apruzzese, Giovanni and Anderson, Hyrum S and Dambra, Savino and Freeman, David and Pierazzi, Fabio and Roundy, Kevin},
+  booktitle=satml,
+  pages={339--364},
+  year={2023},
+  organization={IEEE},
+  bibtex_show={true},
+  website={https://real-gradients.github.io},
+  pdf={satml23_real-gradients.pdf},
+  abbr={IEEE SatML},
   selected={true}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@book{przibram1967letters,
+@inproceedings{barbero2022transcending,
+  title={Transcending Transcend: Revisiting malware classification in the presence of concept drift},
+  author={Barbero, Federico and Pendlebury, Feargus and Pierazzi, Fabio and Cavallaro, Lorenzo},
+  booktitle=ieeesp,
+  pages={805--823},
+  year={2022},
+  organization={IEEE},
   bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+  abbr={IEEE S\&P},
+  arxiv={2010.03856.pdf},
+  code={https://s2lab.cs.ucl.ac.uk/projects/transcend/}
+}
+
+@inproceedings{kan2021investigating,
+  title={Investigating labelless drift adaptation for malware detection},
+  author={Kan, Zeliang and Pendlebury, Feargus and Pierazzi, Fabio and Cavallaro, Lorenzo},
+  booktitle=aisec,
+  pages={123--134},
+  year={2021},
+  bibtex_show={true},
+  abbr={AISec},
+  pdf={deplusplus.pdf}
+}
+
+
+@inproceedings{andresini2021insomnia,
+  title={{INSOMNIA}: Towards concept-drift robustness in network intrusion detection},
+  author={Andresini, Giuseppina and Pendlebury, Feargus and Pierazzi, Fabio and Loglisci, Corrado and Appice, Annalisa and Cavallaro, Lorenzo},
+  booktitle=aisec,
+  pages={111--122},
+  year={2021},
+  bibtex_show={true},
+  abbr={AISec},
+  pdf={insomnia.pdf},
+  code={https://docs.google.com/forms/d/e/1FAIpQLSfxOAdX1D7YT3556a8X_FBlRyKk0-jU4cYGGmkGadrsODHeUw/viewform}
+}
+
+@article{labaca2021realizable,
+  title={Realizable Universal Adversarial Perturbations for Malware},
+  author={Labaca-Castro, Raphael and Mu{\~n}oz-Gonz{\'a}lez, Luis and Pendlebury, Feargus and Rodosek, Gabi Dreo and Pierazzi, Fabio and Cavallaro, Lorenzo},
+  journal={arXiv},
+  year={2021},
+  arxiv={2102.06747},
+  abbr={arXiv}
+}
+
+@article{pierazzi2020glyph,
+  title={Glyph: Efficient ML-based detection of heap spraying attacks},
+  author={Pierazzi, Fabio and Cristalli, Stefano and Bruschi, Danilo and Colajanni, Michele and Marchetti, Mirco and Lanzi, Andrea},
+  journal=tifs,
+  volume={16},
+  pages={740--755},
+  year={2020},
+  publisher={IEEE},
+  abbr={IEEE TIFS},
+  bibtex_show={true},
+  pdf={pierazzi_glyph_tifs.pdf},
+}
+
+@inproceedings{pierazzi2020intriguing,
+  title={Intriguing properties of adversarial ml attacks in the problem space},
+  author={Pierazzi, Fabio and Pendlebury, Feargus and Cortellazzi, Jacopo and Cavallaro, Lorenzo},
+  booktitle=ieeesp,
+  pages={1332--1349},
+  year={2020},
+  organization={IEEE},
+  abbr={IEEE S\&P},
+  bibtex_show={true},
+  pdf={pierazzi_intriguing.pdf},
+  selected={true},
+  website={https://s2lab.cs.ucl.ac.uk/projects/intriguing/}
+}
+
+@article{pierazzi2020data,
+  title={A data-driven characterization of modern Android spyware},
+  author={Pierazzi, Fabio and Mezzour, Ghita and Han, Qian and Colajanni, Michele and Subrahmanian, VS},
+  journal={ACM Transactions on Management Information Systems (TMIS)},
+  volume={11},
+  number={1},
+  pages={1--38},
+  year={2020},
+  abbr={ACM TMIS},
+  bibtex_show={true},
+  pdf={dbank.pdf},
+  supp={dbank_appendix.pdf}
+}
+
+@inproceedings{pendlebury2019tesseract,
+  abbr={USENIX Sec},
+  bibtex_show={true},
+  title={TESSERACT: Eliminating experimental bias in malware classification across space and time},
+  author={Pendlebury, Feargus and Pierazzi, Fabio and Jordaney, Roberto and Kinder, Johannes and Cavallaro, Lorenzo},
+  booktitle=usenixss,
+  year={2019},
+  selected={true},
+
+  pdf={tesseract.pdf}
+}
+
+@article{chakraborty2017ec2,
+  title={{EC2}: Ensemble clustering and classification for predicting android malware families},
+  author={Chakraborty, Tanmoy and Pierazzi, Fabio and Subrahmanian, VS},
+  journal=tdsc,
+  volume={17},
+  number={2},
+  pages={262--277},
+  year={2017},
+  publisher={IEEE},
+  bibtex_show={true},
+  abbr={IEEE TDSC},
+  pdf={tdsc17.pdf},
+  supp={tdsc17_supplementary.pdf}
+}
+
+@inproceedings{pendlebury2018poster,
+  title={POSTER: Enabling Fair ML Evaluations for Security},
+  author={Pendlebury, Feargus and Pierazzi, Fabio and Jordaney, Roberto and Kinder, Johannes and Cavallaro, Lorenzo},
+  booktitle=ccs,
+  year={2018},
+  code = {https://s2lab.cs.ucl.ac.uk/projects/tesseract/},
+  bibtex_show={true},
+  abbr={CCS-Poster},
+  pdf={ccs18_poster.pdf},
+  supp={ccs18_poster_supp.pdf}
+}
+
+@inproceedings{pierazzi2017scalable,
+  title={Scalable architecture for online prioritisation of cyber threats},
+  author={Pierazzi, Fabio and Apruzzese, Giovanni and Colajanni, Michele and Guido, Alessandro and Marchetti, Mirco},
+  booktitle={The 9th International Conference on Cyber Conflict (CyCon)},
+  pages={1--18},
+  year={2017},
+  organization={IEEE},
+  bibtex_show={true},
+  abbr={IEEE CyCon},
+  pdf={cycon17.pdf}
+}
+
+@article{apruzzese2017detection,
+  title={Detection and threat prioritization of pivoting attacks in large networks},
+  author={Apruzzese, Giovanni and Pierazzi, Fabio and Colajanni, Michele and Marchetti, Mirco},
+  journal={IEEE Transactions on Emerging Topics in Computing (TETC)},
+  volume={8},
+  number={2},
+  pages={404--415},
+  year={2017},
+  publisher={IEEE},
+  bibtex_show={true},
+  abbr={IEEE TETC},
+  pdf={pierazzi_TETC17.pdf},
+  supp={pierazzi_TETC17_appendix.pdf}
+}
+
+@inproceedings{marchetti2016countering,
+  title={Countering Advanced Persistent Threats through security intelligence and big data analytics},
+  author={Marchetti, Mirco and Pierazzi, Fabio and Guido, Alessandro and Colajanni, Michele},
+  booktitle={The 8th International Conference on Cyber Conflict (CyCon)},
+  pages={243--261},
+  year={2016},
+  organization={IEEE},
+  bibtex_show={true},
+  abbr={IEEE CyCon},
+  pdf={cycon16.pdf}
+}
+
+@article{jajodia2017probabilistic,
+  title={A probabilistic logic of cyber deception},
+  author={Jajodia, Sushil and Park, Noseong and Pierazzi, Fabio and Pugliese, Andrea and Serra, Edoardo and Simari, Gerardo I and Subrahmanian, VS},
+  journal=tifs,
+  volume={12},
+  number={11},
+  pages={2532--2544},
+  year={2017},
+  publisher={IEEE},
+  bibtex_show={true},
+  abbr={IEEE TIFS},
+  pdf={tifs17.pdf}
+
+}
+
+@article{marchetti2016analysis,
+  title={Analysis of high volumes of network traffic for advanced persistent threat detection},
+  author={Marchetti, Mirco and Pierazzi, Fabio and Colajanni, Michele and Guido, Alessandro},
+  journal={Elsevier Computer Networks},
+  volume={109},
+  pages={127--141},
+  year={2016},
+  publisher={Elsevier},
+  bibtex_show={true},
+  abbr={ComNet},
+  pdf={pierazzi_apt.pdf}
+}
+
+@article{pierazzi2016exploratory,
+  title={Exploratory security analytics for anomaly detection},
+  author={Pierazzi, Fabio and Casolari, Sara and Colajanni, Michele and Marchetti, Mirco},
+  journal={Elsevier Computers \& Security},
+  volume={56},
+  pages={28--49},
+  year={2016},
+  publisher={Elsevier},
+  bibtex_show={true},
+  abbr={CoSe},
+  pdf={pierazzi_cose16.pdf}
+
+}
+
+
+@inproceedings{ferretti2014efficient,
+  title={Efficient detection of unauthorized data modification in cloud databases},
+  author={Ferretti, Luca and Pierazzi, Fabio and Colajanni, Michele and Marchetti, Mirco and Missiroli, Marcello},
+  booktitle={IEEE Symposium on Computers and Communications (ISCC)},
+  year={2014},
+  organization={IEEE},
+  bibtex_show={true},
+  abbr={IEEE ISCC},
+  pdf={iscc14.pdf}
+}
+
+@inproceedings{missiroli2014security,
+  title={Security and privacy of location-based services for in-vehicle device systems},
+  author={Missiroli, Marcello and Pierazzi, Fabio and Colajanni, Michele},
+  booktitle={LSAUC Workshop, International Conference on High Performance Computing \& Simulation (HPCS)},
+  year={2014},
+  organization={IEEE},
+  bibtex_show={true},
+  abbr={LSAUC-HPCS},
+  pdf={lsauc14.pdf}
+}
+
+@article{ferretti2014scalable,
+  title={Scalable architecture for multi-user encrypted SQL operations on cloud database services},
+  author={Ferretti, Luca and Pierazzi, Fabio and Colajanni, Michele and Marchetti, Mirco},
+  journal=tcc,
+  volume={2},
+  number={4},
+  pages={448--458},
+  year={2014},
+  publisher={IEEE},
+  bibtex_show={true},
+  abbr={IEEE TCC},
+  pdf={tcc_mutedb.pdf}
+}
+
+@inproceedings{pierazzi2015network,
+  title={The network perspective of cloud security},
+  author={Pierazzi, Fabio and Balboni, Andrea and Guido, Alessandro and Marchetti, Mirco},
+  booktitle={IEEE Fourth Symposium on Network Cloud Computing and Applications (NCCA)},
+  pages={75--82},
+  year={2015},
+  organization={IEEE},
+  bibtex_show={true},
+  abbr={IEEE NCCA},
+  pdf={pierazzi_ncca15.pdf}
+
+}
+
+
+@article{ferretti2014performance,
+  title={Performance and cost evaluation of an adaptive encryption architecture for cloud databases},
+  author={Ferretti, Luca and Pierazzi, Fabio and Colajanni, Michele and Marchetti, Mirco},
+  journal=tcc,
+  pages={143--155},
+  year={2014},
+  publisher={IEEE},
+  bibtex_show={true},
+  abbr={IEEE TCC},
+  pdf={tcc_onion.pdf}
+}
+
+@inproceedings{ferretti2013security,
+  bibtex_show={true},
+  abbr={SECURWARE},
+  title={Security and confidentiality solutions for public cloud database services},
+  author={Ferretti, Luca and Pierazzi, Fabio and Colajanni, Michele and Marchetti, Mirco and others},
+  booktitle={The Seventh International Conference on Emerging Security Information, Systems and Technologies},
+  pages={36--42},
+  year={2013},
+  note ={Best Paper Award},
+  pdf={pierazzi_SECURWARE13.pdf}
 }
