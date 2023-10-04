@@ -14,15 +14,17 @@ nav_order: 4
 - **Zeliang "Mark" Kan** (2019--), Addressing Concept Drift in Malware Classification
 - **Mohamed Abouhashem** (2021--), Federated Learning Security
 - **Theo Hoifung Chow** (2021--), Robustness of Machine Learning Explanations in Systems Security
-- <span class="badge badge-info">Upcoming: Oct 2023</span>  **Shae McFadden**, Security of Deep Reinforcement Learning
-- <span class="badge badge-info">Upcoming: Oct 2023</span> **Xin Fan Guo**, Model-driven IoT Intrusion Detection
+- **Shae McFadden** (2023--), Security of Deep Reinforcement Learning
+- **Xin Fan Guo** (2023--), Model-driven IoT Intrusion Detection
 - [Want to join?](/opportunities/)
 
 
 ### Research Visitors
 
+- **Feng Wei** (Oct 2023, 6 months), _University at Buffalo, USA_
+- **Hamid Bostani** (Oct 2023, 6 months), _Radboud University, Netherlands_
+- **Marcello Maugeri** (Oct 2023, 6 months), _University of Catania, Italy_
 - **Mario D'Onghia** (May 2023, 6 months), _Politecnico of Milan, Italy_
-- **Malik Al-Essa** (Mar 2023, 6 months), _University of Bari, Italy_
 
 ---
 
@@ -50,6 +52,7 @@ nav_order: 4
 
 **Research Visitors**
 
+- Malik Al-Essa (Mar 2023, 6 months), _University of Bari, Italy_
 - Giuseppina Andresini (2021), _University of Bari, Italy_
 - Dr. Daniel Arp (Sep 2022, 6 months), _TU Berlin, Germany_
 - Ilias Tsingenopoulos (Jan 2023, 3 months), _KU Leuven, Belgium_
