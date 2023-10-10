@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The first paper of Theo on ``Drift Forensics of Malware Classifiers'' has been accepted at AISec 2023!
+Theo's first paper "Drift Forensics of Malware Classifiers" has been accepted at AISec 2023!

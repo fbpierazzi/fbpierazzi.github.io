@@ -30,16 +30,16 @@ nav_order: 5
 ### Technical Program Committee
 
 - IEEE S&P (Oakland) --- 2022, 2023, 2024
+- USENIX Security --- 2022, 2023, 2024
 - ACM CCS --- 2022, 2023
-- USENIX Security --- 2022, 2023
-- [IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)](https://satml.org), 2023
+- [IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)](https://satml.org), 2023, 2024
 - NeurIPS --- 2021
 - [ICML](https://icml.cc/) --- 2020, 2021
 - ICLR --- 2021, 2022
 - AAAI --- 2019, 2020, 2021
 - IJCAI --- 2018, 2019, 2020
 - AISec (CCS workshop) --- 2019, 2020, 2021, 2022
-- DIMVA --- [2020](https://dimva2020.campus.ciencias.ulisboa.pt/), [2021](https://dimva2021.campus.ciencias.ulisboa.pt/organization.html), 2022, 2023
+- DIMVA --- [2020](https://dimva2020.campus.ciencias.ulisboa.pt/), [2021](https://dimva2021.campus.ciencias.ulisboa.pt/organization.html), 2022, 2023, 2024
 - ARES --- [2020](https://2020.ares-conference.eu), [2021](https://www.ares-conference.eu/committee/)
 - DLS (Workshop of IEEE Symp. S&P) --- [2020](https://www.ieee-security.org/TC/SPW2020/DLS/#committee), [2021](https://www.ieee-security.org/TC/SP2021/SPW2021/dls_website/)
 - MLHat (KDD Workshop) --- 2021
