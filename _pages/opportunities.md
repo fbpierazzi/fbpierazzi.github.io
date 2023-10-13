@@ -34,9 +34,9 @@ Getting a Ph.D. is extremely challenging and, often times, frustrating. Experime
 
 **How to Apply for a Ph.D.**
 
-If you are interested in doing a Ph.D. in Computer Science under my supervision at King's College London, and if you are still keen to after reading the premise above, you should definitely write me an e-mail with your CV and interests (be sure to read all of this page before sending).
+If you are interested in doing a Ph.D. in Computer Science under my supervision at King's College London, and if you are still keen to after reading the premise above, you should definitely write me an e-mail with your CV and interests (be sure to read all of this page before sending). 
 
-Nevertheless, it would be extremely useful if you could also take the time to [fill this form](https://forms.office.com/Pages/ResponsePage.aspx?id=FM9wg_MWFky4PHJAcWVDVtZryro4z9NKpkhkNxwVxUlUNzM1MDZOVlJMMEhaUzY2T0RZVFkxNkY1My4u) before sending me an e-mail. Since I am receiving an increasing number of applications, this form greatly helps me in understanding candidates expertise, interests and motivations.
+Make sure that you really motivate why you were thinking about joining my team, as I receive many applications and I am looking for candidates that stand out in terms of passion and experience. 
 
 Please read also the requirements of the [KCL Ph.D. Program](https://www.kcl.ac.uk/informatics/postgraduate/research-degrees) before writing, if for any reason you may be ineligible. I also offer project(s) within the [CDT in Safe & Trusted AI](https://www.kcl.ac.uk/informatics/research/safe-trusted-ai).  
 
@@ -51,4 +51,6 @@ I occasionally have research opportunities for self-contained projects for under
 
 ## Research Visitors
 
-I am happy to host Ph.D. students and PostDocs as visitors (who can visit with their own funding), and I will prioritize based on capacity and matching interests. [King's College London has an internal program](https://www.kcl.ac.uk/study/postgraduate/apply/visiting-research-students) for supporting research visitors. Please take into account that the process of approval of research visitors which can take about 2-3 months. 
+I am generally happy to host Ph.D. students and PostDocs as visitors (who can visit with their own funding), and I will prioritize based on capacity and matching interests. [King's College London has an internal program](https://www.kcl.ac.uk/study/visiting-research-students) for supporting research visitors. 
+
+Please take into account that the process of approval of research visitors which can take about 2-3 months. 
