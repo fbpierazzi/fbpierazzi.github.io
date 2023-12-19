@@ -32,6 +32,7 @@ nav_order: 5
 - IEEE S&P (Oakland) --- 2022, 2023, 2024
 - USENIX Security --- 2022, 2023, 2024
 - ACM CCS --- 2022, 2023
+- Deep Learning Security and Privacy (DLSP) Workshop (co-located with IEEE Symp. S&P) --- [2020](https://www.ieee-security.org/TC/SPW2020/DLS/#committee), [2021](https://www.ieee-security.org/TC/SP2021/SPW2021/dls_website/), [2023](https://dls2023.ieee-security.org/), [2024](https://dlsp2024.ieee-security.org/)
 - [IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)](https://satml.org), 2023, 2024
 - NeurIPS --- 2021
 - [ICML](https://icml.cc/) --- 2020, 2021
@@ -41,7 +42,6 @@ nav_order: 5
 - AISec (CCS workshop) --- 2019, 2020, 2021, 2022
 - DIMVA --- [2020](https://dimva2020.campus.ciencias.ulisboa.pt/), [2021](https://dimva2021.campus.ciencias.ulisboa.pt/organization.html), 2022, 2023, 2024
 - ARES --- [2020](https://2020.ares-conference.eu), [2021](https://www.ares-conference.eu/committee/)
-- DLS (Workshop of IEEE Symp. S&P) --- [2020](https://www.ieee-security.org/TC/SPW2020/DLS/#committee), [2021](https://www.ieee-security.org/TC/SP2021/SPW2021/dls_website/)
 - MLHat (KDD Workshop) --- 2021
 - [DSML](https://dependablesecureml.github.io/) (DSN Workshop) --- 2020, 2021
 - EuroSec Workshop --- [2020](http://concordia-h2020.eu/eurosec-2020/), [2021](https://concordia-h2020.eu/eurosec-2021/)
@@ -50,7 +50,7 @@ nav_order: 5
 - MLCS (Workshop of ECML PKDD) --- [2020](http://mlcs.lasige.di.fc.ul.pt/)
 - Poster Track of IEEE Symp. S&P (Oakland) --- 2019
 - Poster/Demo Track of ACM CCS --- 2020
-- IEEE Network Computing and Applications (_NCA_) --- 2017, 2019, 2020, 2021, 2022
+- IEEE Network Computing and Applications (NCA) --- 2017, 2019, 2020, 2021, 2022, 2023, 2024
 - IEEE Smart Industries Workshop --- 2018
 - IEEE BDAA Workshop --- 2018
 
@@ -74,9 +74,6 @@ nav_order: 5
 
 - EuroSec Workshop --- 2021
 
-### Editorial Boards of Journals
-
-- [Frontiers in Communications and Networks](https://www.frontiersin.org/journals/communications-and-networks) --- since 2020
 
 ### Review Service
 

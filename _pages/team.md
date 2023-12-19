@@ -21,10 +21,9 @@ nav_order: 4
 
 ### Research Visitors
 
-- **Feng Wei** (Oct 2023, 6 months), _University at Buffalo, USA_
 - **Hamid Bostani** (Oct 2023, 6 months), _Radboud University, Netherlands_
 - **Marcello Maugeri** (Oct 2023, 6 months), _University of Catania, Italy_
-- **Mario D'Onghia** (May 2023, 6 months), _Politecnico of Milan, Italy_
+- **Feng Wei** (Oct 2023, 6 months), _University at Buffalo, USA_
 
 ---
 
@@ -52,6 +51,7 @@ nav_order: 4
 
 **Research Visitors**
 
+- Mario D'Onghia (May 2023, 6 months), _Politecnico of Milan, Italy_
 - Malik Al-Essa (Mar 2023, 6 months), _University of Bari, Italy_
 - Giuseppina Andresini (2021), _University of Bari, Italy_
 - Dr. Daniel Arp (Sep 2022, 6 months), _TU Berlin, Germany_

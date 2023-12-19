@@ -168,6 +168,13 @@
             <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
             {%- endif %}
           {%- endif %}
+          {%- if entry.errata %}
+          {% if entry.errata contains '://' -%}
+          <a href="{{ entry.errata }}" class="btn btn-sm z-depth-0" role="button">Errata Corrige</a>
+          {%- else -%}
+          <a href="{{ entry.errata | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Errata Corrige</a>
+          {%- endif %}
+        {%- endif %}
           {%- if entry.blog %}
             <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
           {%- endif %}
