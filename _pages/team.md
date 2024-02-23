@@ -7,11 +7,14 @@ nav: true
 nav_order: 4
 ---
 
+### PostDocs
 
-### Ph.D. Students at KCL
+- **Vacancy**: [Research Associate in Trustworthy ML for Malware Detection](https://www.kcl.ac.uk/jobs/085019-research-associate-in-trustworthy-machine-learning-for-malware-detection) for [EPSRC XAdv project](../projects/xadv/) (Deadline: April 14, 2024)
+
+### Ph.D. Students
 
 - **Jacopo Cortellazzi** (2019--), Problem-space Adversarial Robustness in Malware Classification
-- **Zeliang "Mark" Kan** (2019--), Addressing Concept Drift in Malware Classification
+- **Zeliang "Mark" Kan** (2019--), Concept Drift in Malware Classification
 - **Mohamed Abouhashem** (2021--), Federated Learning Security
 - **Theo Hoifung Chow** (2021--), Robustness of Machine Learning Explanations in Systems Security
 - **Shae McFadden** (2023--), Security of Deep Reinforcement Learning
@@ -21,6 +24,7 @@ nav_order: 4
 
 ### Research Visitors
 
+- **Alessandro Sanna** (Mar 2023, 3 months), _University of Cagliari, Italy_
 - **Hamid Bostani** (Oct 2023, 6 months), _Radboud University, Netherlands_
 - **Marcello Maugeri** (Oct 2023, 6 months), _University of Catania, Italy_
 - **Feng Wei** (Oct 2023, 6 months), _University at Buffalo, USA_

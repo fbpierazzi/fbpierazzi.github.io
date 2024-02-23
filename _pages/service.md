@@ -19,6 +19,7 @@ nav_order: 5
 
 ### Program Chair
 
+- [3rd Workshop on Rethinking Malware Analysis (WoRMA)](https://worma.gitlab.io/2024/), co-located with IEEE EuroS&P --- 2024
 - [2nd Workshop on Robust Malware Analysis (WoRMA)](https://worma.gitlab.io/2023/), co-located with IEEE EuroS&P --- 2023
 - [1st Workshop on Robust Malware Analysis (WoRMA)](https://worma.gitlab.io/2022/), co-located with AsiaCCS --- 2022
 
