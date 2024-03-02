@@ -12,11 +12,11 @@ toc:
 April 8th--12th, 2024\\
 Duration: 20 hours
 
-## Robust Machine Learning for Cybersecurity
+### Risk Assessment of Machine Learning for Cybersecurity
 
-Machine Learning (ML) has shown incredible success in many applications, and this trend was  followed also by cybersecurity to deal with an increasing number of threats in network intrusion and malware detection. However, using ML increases also attack surface, and opens the way to attackers to evade detection systems.
+Machine Learning (ML) has shown incredible success in many applications, and this trend was  followed also by cybersecurity to deal with an increasing number of threats in network intrusion and malware detection. However, using ML increases also attack surface, and opens the way to attackers to evade detection systems. It is then important to understand how to assess the risks and the attack surface of ML models.
 
-**Objectives**: This course will provide you with an overview of the challenges and trends in applying machine learning in cybersecurity, i.e., contexts that consider the presence of an adversary, and that require modification of complex objects (e.g., software). 
+**Objectives**: This course will provide you with an overview of the challenges and trends in assessing risks and robustness of applying machine learning in cybersecurity, i.e., contexts that consider the presence of an adversary, and that require modification of complex objects (e.g., software). 
 
 **Outcome**: An understanding of fundamental challenges of applying machine learning in adversarial settings with evolving scenarios, with case studies and labs on the malware detection domain.
 
@@ -49,12 +49,12 @@ The indicative outline of the course is as follows:
 
 The Python Labs will follow the guidelines at [this link](https://github.com/isneslab/mlsec-labs).
 
-## Registration
+### Registration
 
 To participate, you need to complete [this registration form](https://forms.gle/dy8FBAKXG9VP1nCo9). In-person places are on a first-come first-served basis. 
 
 
-## Required skills
+### Required skills
 
 The course offers a 3-hour introductory part that will provide you with all the basics and context required to understand the challenges. Do not get scared by the word 'cybersecurity' in the title: we will use cybersecurity as a scenario that has specific constraints that make machine learning very challenging. Yet, we will discuss all the existing trends and solutions to these problems that are the focus of extensive research from both the security and ML communities. 
 
@@ -72,7 +72,7 @@ Preferred (but not required):
 
 
 
-## Timetable
+### Timetable
 
 | Date                       | Time &nbsp; &nbsp; | Location                                        |
 |----------------------------|-------|-------------------------------------------------|
@@ -85,7 +85,7 @@ Preferred (but not required):
 
 <br/>
 
-## Assessment (Optional)
+### Assessment (Optional)
 
 This course offers an optional exam, for students who opt-in to do it (e.g., for getting credits in their Ph.D. programme). 
 
@@ -106,11 +106,11 @@ Assessment criteria:
 You will also receive a personalized feedback on your abstract. 
 
 
-## Lecturer Biography
+### Lecturer Biography
 
 Dr. Fabio Pierazzi is a Senior Lecturer (Associate Professor) in Computer Science and Deputy Head of the Cybersecurity group at the Department of Informatics of King's College London, and affiliated with UCL's Systems Security Research Lab (S2Lab). His research interests are at the intersection of systems security and machine learning, with a particular emphasis on settings in which attackers adapt quickly to new defenses (i.e., high non-stationarity, adaptive attackers). Previously, he obtained his Ph.D. in Computer Science at University of Modena, Italy (2014–2017), he visited University of Maryland, College Park, USA (2016), and he was a Post-Doctoral Research Associate at Royal Holloway, University of London (2017–2019). Home page: [https://fabio.pierazzi.com](https://fabio.pierazzi.com)
 
-## References
+### References
 
 See [advice on reviewing literature for systems security](http://localhost:8080/blog/2021/literature-review-systems-security/).
 
@@ -151,3 +151,9 @@ Socio-technical MLSec
 
 Malware Detection
 - Arp et al., [Drebin: Effective and explainable detection of android malware in your pocket.](https://mlsec.org/docs/2014-ndss.pdf), NDSS, 2014
+
+<br/>
+
+### Acknowledgments 
+
+This PhD course was supported by project SERICS (PE00000014) under the MUR National Recovery and Resilience Plan funded by the European Union - NextGenerationEU.
