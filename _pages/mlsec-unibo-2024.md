@@ -120,6 +120,7 @@ Best Practices for MLSec
 Adversarial ML: Evasion
 * Carlini and Wagner, [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644), IEEE Symposium on Security & Privacy, 2016 (Best Paper Award)
 * Pierazzi et al., "[Intriguing Properties of Adversarial ML Attacks in the Problem Space](https://fabio.pierazzi.com/papers/pierazzi_intriguing.pdf)", IEEE Symposium on Security & Privacy, 2022
+* Athalye et al. "[Obfuscated gradients give a false sense of security: Circumventing defenses to adversarial examples](https://proceedings.mlr.press/v80/athalye18a/athalye18a.pdf)", ICML, 2018.
 
 Adversarial ML: Backdoor
 * Yang et al., "[Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers](https://kclpure.kcl.ac.uk/portal/files/204793925/IEEESP23_Jigsaw_Puzzle.pdf)", IEEE Symposium on Security & Privacy, 2023
