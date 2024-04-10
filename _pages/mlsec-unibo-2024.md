@@ -80,7 +80,7 @@ Preferred (but not required):
 | Tuesday, April 9th, 2024   | 09-13  | Aula Bodoniana 5 - Via San Donato 19/2, ingresso da Ristorante Le Salentine |
 | Wednesday, April 10th, 2024 | 14-18 | Aula Bodoniana 5                                |
 | Thursday, April 11th, 2024  | 14-18 | Aula Arzelà Matematica                          |
-| Friday, April 12th, 2024    | 09-13  | Location TBC                                    |
+| Friday, April 12th, 2024    | 09-13  | Aula 7.5 - Piano Primo - Locali in Bo - via Saragozza, n. 8               |
 |----------------------------|-------|-------------------------------------------------|
 
 <br/>
