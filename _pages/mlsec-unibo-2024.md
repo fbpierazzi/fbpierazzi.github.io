@@ -76,10 +76,10 @@ Preferred (but not required):
 
 | Date                       | Time &nbsp; &nbsp; | Location                                        |
 |----------------------------|-------|-------------------------------------------------|
-| Monday, April 8th, 2024    | 14-18 | Aula VII piano Matematica                       |
+| Monday, April 8th, 2024    | 14-18 | Aula VII - Piano 7 - Matematica                       |
 | Tuesday, April 9th, 2024   | 09-13  | Aula Bodoniana 5 - Via San Donato 19/2, ingresso da Ristorante Le Salentine |
 | Wednesday, April 10th, 2024 | 14-18 | Aula Bodoniana 5                                |
-| Thursday, April 11th, 2024  | 14-18 | Aula Arzelà Matematica                          |
+| Thursday, April 11th, 2024  | 14-18 | Aula Arzelà - Piano 5 - Matematica                          |
 | Friday, April 12th, 2024    | 09-13  | Aula 7.5 - Piano Primo - Locali in Bo - via Saragozza, n. 8               |
 |----------------------------|-------|-------------------------------------------------|
 
