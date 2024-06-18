@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: grants
+permalink: /grants/
 description: A selection of relevant grants-related project.
 nav: true
-nav_order: 2
+nav_order: 8
 display_categories: [grants]
 horizontal: false
 ---

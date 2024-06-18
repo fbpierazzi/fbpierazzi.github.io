@@ -9,38 +9,43 @@ nav_order: 4
 
 ### PostDocs
 
-- **Vacancy**: [Research Associate in Trustworthy ML for Malware Detection](https://www.kcl.ac.uk/jobs/085019-research-associate-in-trustworthy-machine-learning-for-malware-detection) for [EPSRC XAdv project](../projects/xadv/) (Deadline: April 14, 2024)
+- **Mario D'Onghia** (starting September 2024), Robust Explanations for Malware Detection
 
 ### Ph.D. Students
 
 - **Jacopo Cortellazzi** (2019--), Problem-space Adversarial Robustness in Malware Classification
-- **Zeliang "Mark" Kan** (2019--), Concept Drift in Malware Classification
+- **Marcus Zeliang Kan** (2019--), Concept Drift and Malware Classification
 - **Mohamed Abouhashem** (2021--), Federated Learning Security
 - **Theo Hoifung Chow** (2021--), Robustness of Machine Learning Explanations in Systems Security
-- **Shae McFadden** (2023--), Security of Deep Reinforcement Learning
-- **Xin Fan Guo** (2023--), Model-driven IoT Intrusion Detection
+- **Shae McFadden** (2023--), Deep Reinforcement Learning and Security
+- **Xin Fan Guo** (2023--), Model-driven Intrusion Detection
 - [Want to join?](/opportunities/)
+
+
+# Past Members
+
+---
+
+### Ph.D. Alumni
+
+
+- (Second Supervisor) Feargus Pendlebury (2017--2021), _RHUL & KCL & UCL, UK_ 
 
 
 ### Research Visitors
 
-- **Alessandro Sanna** (Mar 2023, 3 months), _University of Cagliari, Italy_
-- **Hamid Bostani** (Oct 2023, 6 months), _Radboud University, Netherlands_
-- **Marcello Maugeri** (Oct 2023, 6 months), _University of Catania, Italy_
-- **Feng Wei** (Oct 2023, 6 months), _University at Buffalo, USA_
+- Alessandro Sanna (Mar 2023, 3 months), _University of Cagliari, Italy_
+- Hamid Bostani (Oct 2023, 6 months), _Radboud University, Netherlands_
+- Marcello Maugeri (Oct 2023, 6 months), _University of Catania, Italy_
+- Feng Wei (Oct 2023, 6 months), _University at Buffalo, USA_
+- Mario D'Onghia (May 2023, 6 months), _Politecnico of Milan, Italy_
+- Malik Al-Essa (Mar 2023, 6 months), _University of Bari, Italy_
+- Giuseppina Andresini (2021), _University of Bari, Italy_
+- Dr. Daniel Arp (Sep 2022, 6 months), _TU Berlin, Germany_
+- Ilias Tsingenopoulos (Jan 2023, 3 months), _KU Leuven, Belgium_
+- Shae McFadden, _King's College London, UK_
 
----
-
-### Past Members
-
-**Ph.D. Alumni**
-
-
-- (Second Supervisor) Feargus Pendlebury (2017--2021), _RHUL & UCL, UK_ 
-
-
-
-**Undergraduate Students - Research Internships**
+### Undergraduate Students - Research Internships
 
 - Jeevan Jutla (2023), _King's College London, UK_
 - Adil Farooq (2022), _Georgia Tech, USA_
@@ -52,12 +57,3 @@ nav_order: 4
 - Piotr Kurek (2021), _King's College London, UK_
 - Emiliyana Tsanova (2021), _King's College London, UK_
 - Priya Pillaipakkam Madapusi (2021), _King's College London, UK_
-
-**Research Visitors**
-
-- Mario D'Onghia (May 2023, 6 months), _Politecnico of Milan, Italy_
-- Malik Al-Essa (Mar 2023, 6 months), _University of Bari, Italy_
-- Giuseppina Andresini (2021), _University of Bari, Italy_
-- Dr. Daniel Arp (Sep 2022, 6 months), _TU Berlin, Germany_
-- Ilias Tsingenopoulos (Jan 2023, 3 months), _KU Leuven, Belgium_
-- Shae McFadden, _King's College London, UK_
