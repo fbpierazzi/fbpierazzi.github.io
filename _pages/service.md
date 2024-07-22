@@ -30,11 +30,12 @@ nav_order: 5
 
 ### Technical Program Committee
 
+- USENIX Security Symposium --- 2022, 2023, 2024, [2025](https://www.usenix.org/conference/usenixsecurity25)
+- [IEEE SaTML](https://satml.org) --- 2023, 2024, 2025
+- IEEE EuroS&P --- [2025](https://eurosp2025.ieee-security.org) 
 - IEEE S&P (Oakland) --- 2022, 2023, 2024
-- USENIX Security --- 2022, 2023, 2024
 - ACM CCS --- 2022, 2023
 - Deep Learning Security and Privacy (DLSP) Workshop (co-located with IEEE Symp. S&P) --- [2020](https://www.ieee-security.org/TC/SPW2020/DLS/#committee), [2021](https://www.ieee-security.org/TC/SP2021/SPW2021/dls_website/), [2023](https://dls2023.ieee-security.org/), [2024](https://dlsp2024.ieee-security.org/)
-- [IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)](https://satml.org), 2023, 2024
 - NeurIPS --- 2021
 - [ICML](https://icml.cc/) --- 2020, 2021
 - ICLR --- 2021, 2022
