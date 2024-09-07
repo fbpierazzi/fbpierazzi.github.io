@@ -9,12 +9,11 @@ nav_order: 4
 
 ### PostDocs
 
-- **Mario D'Onghia** (starting September 2024), Robust Explanations for Malware Detection
+- **Mario D'Onghia** (2024--), Robust Explanations for Malware Detection
 
 ### Ph.D. Students
 
-- **Jacopo Cortellazzi** (2019--), Problem-space Adversarial Robustness in Malware Classification
-- **Marcus Zeliang Kan** (2019--), Concept Drift and Malware Classification
+- **[Jacopo Cortellazzi](https://www.linkedin.com/in/jacopocortellazzi/)** (2019--), "Robustness of Machine Learning-based Malware Detection Models" - Now @ Apple Security Research
 - **Mohamed Abouhashem** (2021--), Federated Learning Security
 - **Theo Hoifung Chow** (2021--), Robustness of Machine Learning Explanations in Systems Security
 - **Shae McFadden** (2023--), Deep Reinforcement Learning and Security
@@ -28,8 +27,8 @@ nav_order: 4
 
 ### Ph.D. Alumni
 
-
-- (Second Supervisor) Feargus Pendlebury (2017--2021), _RHUL & KCL & UCL, UK_ 
+- **[Marcus Zeliang Kan](https://www.linkedin.com/in/markkan945/)** (2019--2024), "Evaluating and Mitigating Concept Drift in Machine Learning Security Tasks" -- First job after graduation: AI Security Researcher @ Hidden Layer
+- (_Second Supervisor_) **[Feargus Pendlebury](https://www.linkedin.com/in/feargus-pendlebury/)** (2017--2021), "Machine Learning for Security in Hostile Environments" - First job after graduation: Software Engineer @ Meta
 
 
 ### Research Visitors

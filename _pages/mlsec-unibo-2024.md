@@ -94,7 +94,7 @@ The assessment requires to write an extended abstract (min 1000-max 1500 chars, 
  2. Idea for a possible novel solution that integrates the chosen paper and your research
  3. Novelty with respect to the state of the art
 
-Submit your extended abstract **by May 15th, 2024** via [this form](https://forms.gle/Zghe5GWnUcByy3at7).
+Submit your extended abstract **by May 15th, 2024** via this form: _Link TBC_
 
 Assessment criteria: 
 - Demonstrating understanding of the chosen paper content and topic
