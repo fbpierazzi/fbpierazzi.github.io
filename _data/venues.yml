@@ -4,9 +4,14 @@
 "IEEE S&P":
   color: "#00369f"
 
+"RAID":
+  color: "#00369f"
 
 "AISec":
   color: "#3f9915"
 
+"DLSP":
+  color: "#3f9915"
+
 "arXiv":
-  color: "#ffc908"
+  color: "#555555"

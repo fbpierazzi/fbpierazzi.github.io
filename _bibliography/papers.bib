@@ -22,6 +22,8 @@
 @string{raid = {Proc. of the International Symposium on Research in Attacks, Intrusions and Defenses ({RAID})}}
 
 
+
+
 @misc{tsingenopoulos2023adversarial,
       title={Adversarial Markov Games: On Adaptive Decision-Based Attacks and Defenses}, 
       author={Ilias Tsingenopoulos and Vera Rimmer and Davy Preuveneers and Fabio Pierazzi and Lorenzo Cavallaro and Wouter Joosen},
@@ -34,7 +36,26 @@
       pdf={https://arxiv.org/abs/2312.13435}
 }
 
-https://kclpure.kcl.ac.uk/ws/portalfiles/portal/248844190/icra2024_motion_planning_attacks.pdf
+
+@inproceedings{apruzzese2024aisec,
+      title={When Adversarial Perturbations meet Concept Drift: an Exploratory Analysis on ML-NIDS}, 
+      author={Giovanni Apruzzese and Aurore Fass and  Fabio Pierazzi},
+      year={2024},
+      abbr={AISec},
+      booktitle=aisec,
+      bibtex_show={true},
+      note={<br/><span class="badge badge-warning">Open Problem Paper</span>}
+}
+
+@inproceedings{embedwatch2024,
+      title={EmbedWatch: Fat Pointer Solution for Detecting Spatial Memory Errors in Embedded Systems}, 
+      author={Davide Rusconi and Matteo Zoia and Luca Buccioli and Fabio Pierazzi and Danilo Bruschi and Lorenzo Cavallaro and Flavio Toffalini and Andrea Lanzi},
+      year={2024},
+      abbr={CPSIoTSec},
+      booktitle={Proc. of the 6th Workshop on CPS and IoT Security (CPSIoTSec)},
+      bibtex_show={true},
+}
+
 
 @inproceedings{ilias2024train,
       title={How to Train your Antivirus: RL-based Hardening through the Problem Space}, 
@@ -92,6 +113,7 @@ https://kclpure.kcl.ac.uk/ws/portalfiles/portal/248844190/icra2024_motion_planni
   volume={21},
   number={2},
   pages={53-56},
+  pdf={https://ieeexplore.ieee.org/document/10102612},
   doi={10.1109/MSEC.2023.3236543}
 }
 
@@ -107,6 +129,7 @@ https://kclpure.kcl.ac.uk/ws/portalfiles/portal/248844190/icra2024_motion_planni
   doi={10.1109/MSEC.2023.3287207},
   abbr={IEEE S\&P Mag},
   bibtex_show={true},
+  pdf={https://intellisec.de/pubs/2023-spmag.pdf}
 }
 
 
@@ -125,10 +148,12 @@ https://kclpure.kcl.ac.uk/ws/portalfiles/portal/248844190/icra2024_motion_planni
 @inproceedings{ilias2024adaptive,
   title={On Adaptive Decision-Based Attacks and Defenses},
   author={Ilias Tsingenopoulos and Vera Rimmer and Davy Preuveneers and Fabio Pierazzi and Lorenzo Cavallaro and Wouter Joosen},
-  booktitle={Extended abstract at DLSP},
+  booktitle=dlsp,
   year={2024},
-  abbr={DLSP (Ext. Abs.)},
+  abbr={DLSP},
   bibtex_show={true},
+  pdf={https://dlsp2024.ieee-security.org/papers/dls2024-final24.pdf},
+  note = {<br/><span class="badge badge-warning">Extended Abstract</span>}
 }
 	
 
@@ -151,7 +176,8 @@ https://kclpure.kcl.ac.uk/ws/portalfiles/portal/248844190/icra2024_motion_planni
   year={2023},
   abbr={CCS Poster},
   bibtex_show={true},
-  pdf={ccs23-poster-mcfadden.pdf}
+  pdf={ccs23-poster-mcfadden.pdf},
+  note = {<br/><span class="badge badge-warning">Poster Paper</span>}
 }
 
 
@@ -189,28 +215,31 @@ https://kclpure.kcl.ac.uk/ws/portalfiles/portal/248844190/icra2024_motion_planni
 }
 
 @inproceedings{yang2023jigsaw,
-  title={Jigsaw Puzzle: Selective backdoor attack to subvert malware classifiers},
+  title={{Jigsaw Puzzle}: Selective backdoor attack to subvert malware classifiers},
   author={Yang, Limin and Chen, Zhi and Cortellazzi, Jacopo and Pendlebury, Feargus and Tu, Kevin and Pierazzi, Fabio and Cavallaro, Lorenzo and Wang, Gang},
   booktitle=ieeesp,
   year={2023},
   abbr={IEEE S\&P},
+  bibtex_show={true},
   pdf={IEEESP23_Jigsaw_Puzzle.pdf},
   supp={IEEESP23_Jigsaw_Puzzle_Supplementary_Materials.pdf},
-  slides={IEEESP23_Jigsaw_Puzzle_slides_LiminYang.pdf},
-  bibtex_show={true}
+  website={https://whyisyoung.github.io/JigsawPuzzle/},
+  code={https://forms.gle/aEdCPbnTCyH4NZvm8},
+  slides={IEEESP23_Jigsaw_Puzzle_slides_LiminYang.pdf}
 }
 
 @inproceedings{ArpQuiPen+22,
   abbr={USENIX Sec},
-  bibtex_show={true},
   title={Dos and don'ts of machine learning in computer security},
   author={Arp, Daniel and Quiring, Erwin and Pendlebury, Feargus and Warnecke, Alexander and Pierazzi, Fabio and Wressnegger, Christian and Cavallaro, Lorenzo and Rieck, Konrad},
   booktitle=usenixss,
   year={2022},
   selected={true},
-  note = {Distinguished Paper Award},
+  pdf={https://www.usenix.org/system/files/sec22-arp.pdf},
   arxiv={2010.09470},
-  website={https://dodo-mlsec.org}
+  website={https://dodo-mlsec.org},
+  bibtex_show={true},
+  note={<br/><span class="badge badge-primary">Distinguished Paper Award</span>}
 }
 
 
@@ -241,7 +270,7 @@ https://kclpure.kcl.ac.uk/ws/portalfiles/portal/248844190/icra2024_motion_planni
   errata={transcending-errata_corrige.pdf},
   website={https://s2lab.cs.ucl.ac.uk/projects/transcend/},
   arxiv={2010.03856.pdf},
-  code={https://s2lab.cs.ucl.ac.uk/projects/transcend/}
+  code={https://github.com/s2labres/transcendent-release}
 }
 
 @inproceedings{kan2021investigating,
@@ -301,7 +330,8 @@ https://kclpure.kcl.ac.uk/ws/portalfiles/portal/248844190/icra2024_motion_planni
   bibtex_show={true},
   pdf={pierazzi_intriguing.pdf},
   selected={true},
-  website={https://s2lab.cs.ucl.ac.uk/projects/intriguing/}
+  website={https://s2lab.cs.ucl.ac.uk/projects/intriguing/},
+  code={https://forms.gle/mja8UEfYJPpxexMw5},
 }
 
 @article{pierazzi2020data,
@@ -326,7 +356,9 @@ https://kclpure.kcl.ac.uk/ws/portalfiles/portal/248844190/icra2024_motion_planni
   booktitle=usenixss,
   year={2019},
   selected={true},
-  pdf={tesseract.pdf}
+  pdf={tesseract.pdf},
+  website={https://s2lab.cs.ucl.ac.uk/projects/tesseract/}, 
+  code={https://github.com/s2labres/tesseract-ml-release}
 }
 
 @article{chakraborty2017ec2,
@@ -345,7 +377,7 @@ https://kclpure.kcl.ac.uk/ws/portalfiles/portal/248844190/icra2024_motion_planni
 }
 
 @inproceedings{pendlebury2018poster,
-  title={POSTER: Enabling Fair ML Evaluations for Security},
+  title={Poster: Enabling Fair ML Evaluations for Security},
   author={Pendlebury, Feargus and Pierazzi, Fabio and Jordaney, Roberto and Kinder, Johannes and Cavallaro, Lorenzo},
   booktitle=ccs,
   year={2018},
@@ -353,7 +385,8 @@ https://kclpure.kcl.ac.uk/ws/portalfiles/portal/248844190/icra2024_motion_planni
   bibtex_show={true},
   abbr={CCS-Poster},
   pdf={ccs18_poster.pdf},
-  supp={ccs18_poster_supp.pdf}
+  supp={ccs18_poster_supp.pdf},
+  note = {<br/><span class="badge badge-warning">Poster Paper</span>}
 }
 
 @inproceedings{pierazzi2017scalable,
@@ -508,6 +541,6 @@ https://kclpure.kcl.ac.uk/ws/portalfiles/portal/248844190/icra2024_motion_planni
   booktitle={The Seventh International Conference on Emerging Security Information, Systems and Technologies},
   pages={36--42},
   year={2013},
-  note ={Best Paper Award},
+  note={<br/><span class="badge badge-primary">Best Paper Award</span>},
   pdf={pierazzi_SECURWARE13.pdf}
 }
