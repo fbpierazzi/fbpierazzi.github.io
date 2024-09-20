@@ -52,7 +52,7 @@ nav_order: 5
 - MLCS (Workshop of ECML PKDD) --- [2020](http://mlcs.lasige.di.fc.ul.pt/)
 - Poster Track of IEEE Symp. S&P (Oakland) --- 2019
 - Poster/Demo Track of ACM CCS --- 2020
-- IEEE Network Computing and Applications (NCA) --- 2017, 2019, 2020, 2021, 2022, 2024
+- IEEE Network Computing and Applications (NCA) --- 2017, 2019, 2020, 2021, 2022, 2023, 2024
 - IEEE Smart Industries Workshop --- 2018
 - IEEE BDAA Workshop --- 2018
 

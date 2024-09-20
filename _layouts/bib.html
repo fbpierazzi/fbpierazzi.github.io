@@ -103,12 +103,11 @@
               "
           >{{more_authors_hide}}</span>
         {%- endif -%}
-
-            </span>
+        </span>
         <!-- Adding comma -->
         ,
         <!-- Title -->
-        <span class="title">{{entry.title}}</span>
+        <span class="title">"{{entry.title}}"</span>
 
         <!-- Journal/Book title and date -->
         {% assign proceedings = "inproceedings,incollection" | split: ','%}
@@ -116,9 +115,9 @@
         {% if entry.type == "article" -%}
           {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
         {%- elsif proceedings contains entry.type -%}
-          {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
+          {%- capture entrytype -%}<em>In {{entry.booktitle}}</em>{%- endcapture -%}
         {%- elsif thesis contains entry.type -%}
-          {%- capture entrytype -%}<em>{{entry.school}}</em> {%- endcapture -%}
+          {%- capture entrytype -%}<em>{{entry.school}}</em>{%- endcapture -%}
         {%- else -%}
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}
