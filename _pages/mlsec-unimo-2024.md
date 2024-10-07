@@ -61,6 +61,8 @@ The assessment requires to write an extended abstract (min 1000-max 1500 chars, 
 
 Submit your extended abstract **by October 25th, 2024** via this form: [click here](https://forms.gle/Ga2sgRyZEmiK6sWh6)
 
+You can download course material [from here](https://emckclac-my.sharepoint.com/:b:/g/personal/k1802448_kcl_ac_uk/Ed1YVvl8oqRAsyoEKrYYUXMBBYV8SH5B_bAdcVZMXcrJHA?e=V1CM5k) (until Oct 11th, 2024).
+
 Assessment criteria: 
 - Demonstrating understanding of the chosen paper content and topic
 - Ability to position your own research within the context of robust machine learning and security
