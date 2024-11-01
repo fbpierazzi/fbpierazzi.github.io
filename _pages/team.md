@@ -13,7 +13,6 @@ nav_order: 4
 
 ### Ph.D. Students
 
-- **Mohamed Abouhashem** (2021--), Federated Learning Security
 - **Theo Hoifung Chow** (2021--), Robustness of Machine Learning Explanations in Systems Security
 - **Shae McFadden** (2023--), Deep Reinforcement Learning and Security
 - **Xin Fan Guo** (2023--), Model-driven Intrusion Detection

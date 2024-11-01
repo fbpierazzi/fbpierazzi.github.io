@@ -2,19 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Senior Lecturer (Associate Professor)</b> in Computer Science at King's College London<br/>Deputy Head of the Cybersecurity Group in Informatics<br/>Programme Leader of the MSc in Cyber Security
+subtitle: <b>Associate Professor</b> in Computer Science at University College London
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office BH(N)7.16</p>
-    <p>Dept. Informatics</p>
-    <p>King's College London</p>
+    <p>Office 109</p>
+    <p>169 Euston Rd.</p>
+    <p>UCL, London</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
