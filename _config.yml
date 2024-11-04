@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Fabio
 middle_name:
 last_name: Pierazzi
-email: fabio.pierazzi@kcl.ac.uk
+email: f.pierazzi@ucl.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal Web page of Fabio Pierazzi.
 footer_text: >
