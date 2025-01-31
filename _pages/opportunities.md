@@ -9,6 +9,31 @@ nav_order: 6
 
 I am always looking for motivated  Ph.D. students to join my team at UCL. If you are a prospective candidate, I invite you to read this page before contacting me for Ph.D./research opportunities.
 
+## Open Ph.D. Opportunities at UCL
+
+In this section I planning to keep up-to-date information (as much as possible) about Ph.D. projects under my supervision. Nevertheless, this list may not be exhaustive, may contain programs where it is not guaranteed I have a project advertised (e.g., CDT in Cyber-Physical Risk), and---depending on when you read this page---may contain expired opportunities. 
+
+Please note that these opportunities are highly competitive and funding is not guaranteed. 
+
+* **Explainable, Knowledge-driven AI and ML for Systems Security** <span class="badge badge-info">Deadline: Feb 21, 2025</span> <span class="badge badge-warning">Home Studentship Only</span>
+    * [Project Description](https://www.findaphd.com/phds/programme/ucl-s-department-of-computer-science-offers-fully-funded-home-studentships-starting-september-2025/?p6777)
+    * [Programme and How to Apply](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/computer-science-4-year-programme-mphil-phd)
+    * Expected Start Date: September 2025
+
+* **Potential Project(s) within CDT in Cyber-Physical Risk** <span class="badge badge-info">Deadline: TBC</span> <span class="badge badge-warning">Home Studentship Only</span>
+    * [PhD Open Evening on March 6th at 6pm-8pm](https://www.findaphd.com/phds/program/epsrc-centre-for-doctoral-training-cdt-in-cyber-physical-risk/?i274p6758)
+    * [CDT Website (to be updated)](https://www.ucl.ac.uk/security-crime-science/study/postgraduate-research/epsrc-centre-doctoral-training-cyber-physical-risk)
+
+* **Drift Forensics of Machine Learning for Malware Classification** 
+    * Applications are now closed for Round 1 
+    * Round 2 is expected to open in February 2025 and close in early June 2025 (depends also on outcome of Round 1)
+    * [Project Description](https://ucl-epsrc-dtp.github.io/2025-26-project-catalogue/projects/2531ad1513.html)
+    * [How to Apply](https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/apply-ucl-epsrc-landscape-award-uela-studentship)
+    * Expected Start Date: October 2025
+
+
+This list was last updated on Jan 31, 2025.
+
 ## My Research Area
 
 My main area of expertise is at the intersection of **systems security** and **machine learning**, with emphasis on network security and malware analysis.
@@ -19,9 +44,9 @@ To get a better idea of the type of research I do, and to see if you like it, I 
 
 I am looking to solve problems in many domains with incoming students, including (but not limited to):
 
-- Embedding Expert Knowledge in ML Systems
+- Embedding Expert Knowledge in ML Systems for Security 
 - Explainable Security
-- Systems Security
+- Systems Security (e.g., Malware Detection, Network Intrusion Detection)
 - Automated Security Testing
 
 ## Prospective Ph.D. Candidates
@@ -38,10 +63,10 @@ Make sure that you really motivate why you were thinking about joining my team, 
 
 Please note that you will be evaluated by a committee, and your admission does not arbitrarily depend on me.
 
-If you insert "Bahamut 3.0" in your e-mail subject line when contacting me, I will know you have read this page, and you will most likely receive a reply from me. Failing to insert this keyword in the subject line may result in your e-mail getting lost in my inbox: I receive a lot of e-mails from prospective graduate students, and sometimes it is hard for me to understand which ones are out of genuine interest in joining my group, or just a "copy-paste" spammed to a lot of professors.
+If you insert "Bahamut 4.0" in your e-mail subject line when contacting me, I will know you have read this page, and you will most likely receive a reply from me. Failing to insert this keyword in the subject line may result in your e-mail getting lost in my inbox: I receive a lot of e-mails from prospective graduate students, and sometimes it is hard for me to understand which ones are out of genuine interest in joining my group, or just a "copy-paste" spammed to a lot of professors.
 
 ## Research Visitors
 
-I am generally happy to host Ph.D. students and PostDocs as visitors (who can visit with their own funding), and I will prioritize based on capacity and matching interests. 
+I am generally happy to host Ph.D. students and PostDocs as visitors (who can visit with their own funding). I will prioritize based on available capacity and matching interests (e.g., some periods are more oversubscribed and cannot take any more visitors). 
 
 Please take into account that the process of approval of research visitors can take about 2-3 months. 
