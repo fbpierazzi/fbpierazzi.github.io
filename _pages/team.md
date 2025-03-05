@@ -7,6 +7,8 @@ nav: true
 nav_order: 4
 ---
 
+To explore vacancies and opportunities, see [this page](/opportunities/).
+
 ### PostDocs
 
 - **Mario D'Onghia** (2024--), Robust Explanations for Malware Detection
@@ -16,8 +18,9 @@ nav_order: 4
 - **Theo Hoifung Chow** (2021--), Robustness of Machine Learning Explanations in Systems Security
 - **Shae McFadden** (2023--), Deep Reinforcement Learning and Security
 - **Xin Fan Guo** (2023--), Model-driven Intrusion Detection
-- [Want to join?](/opportunities/)
 
+### Research Visitors
+- **Silvio Russo** (May 2025, 6 months), University of Bologna, Italy
 
 # Past Members
 
@@ -27,18 +30,19 @@ nav_order: 4
 
 - **[Jacopo Cortellazzi](https://www.linkedin.com/in/jacopocortellazzi/)** (2019--2024)
     - Ph.D. Thesis title: "Robustness of Machine Learning-based Malware Detection Models" 
-    - First job after graduation: Apple Security Research
+    - First job after graduation: AI Security Researcher @ Apple
 - **[Marcus Zeliang Kan](https://www.linkedin.com/in/markkan945/)** (2019--2024)
     - Ph.D. Thesis title: "Evaluating and Mitigating Concept Drift in Machine Learning Security Tasks"
-    - First job after graduation: AI Security Researcher @ Hidden Layer
+    - First job after graduation: AI Security Researcher @ HiddenLayer
 - **[Feargus Pendlebury](https://www.linkedin.com/in/feargus-pendlebury/)** (2017--2021), as _Second Supervisor_ 
     - Ph.D. Thesis title: "Machine Learning for Security in Hostile Environments" 
     - First job after graduation: Software Engineer @ Meta
 
 
+
 ### Research Visitors
 
-- Alessandro Sanna (Mar 2023, 3 months), _University of Cagliari, Italy_
+- Alessandro Sanna (Mar 2024, 3 months), _University of Cagliari, Italy_
 - Hamid Bostani (Oct 2023, 6 months), _Radboud University, Netherlands_
 - Marcello Maugeri (Oct 2023, 6 months), _University of Catania, Italy_
 - Feng Wei (Oct 2023, 6 months), _University at Buffalo, USA_

@@ -19,6 +19,7 @@ nav_order: 5
 
 ### Program Chair
 
+- [4th Workshop on Rethinking Malware Analysis (WoRMA)](https://worma.gitlab.io/2025/), co-located with IEEE EuroS&P --- 2025
 - [3rd Workshop on Rethinking Malware Analysis (WoRMA)](https://worma.gitlab.io/2024/), co-located with IEEE EuroS&P --- 2024
 - [2nd Workshop on Robust Malware Analysis (WoRMA)](https://worma.gitlab.io/2023/), co-located with IEEE EuroS&P --- 2023
 - [1st Workshop on Robust Malware Analysis (WoRMA)](https://worma.gitlab.io/2022/), co-located with AsiaCCS --- 2022
@@ -29,11 +30,10 @@ nav_order: 5
 
 
 ### Technical Program Committee
-
+- IEEE S&P (Oakland) --- 2022, 2023, 2024, 2026
 - USENIX Security Symposium --- 2022, 2023, 2024, [2025](https://www.usenix.org/conference/usenixsecurity25)
 - [IEEE SaTML](https://satml.org) --- 2023, 2024, 2025
 - IEEE EuroS&P --- [2025](https://eurosp2025.ieee-security.org) 
-- IEEE S&P (Oakland) --- 2022, 2023, 2024
 - ACM CCS --- 2022, 2023
 - Deep Learning Security and Privacy (DLSP) Workshop (co-located with IEEE Symp. S&P) --- [2020](https://www.ieee-security.org/TC/SPW2020/DLS/#committee), [2021](https://www.ieee-security.org/TC/SP2021/SPW2021/dls_website/), [2023](https://dls2023.ieee-security.org/), [2024](https://dlsp2024.ieee-security.org/)
 - NeurIPS --- 2021
@@ -42,7 +42,7 @@ nav_order: 5
 - AAAI --- 2019, 2020, 2021
 - IJCAI --- 2018, 2019, 2020
 - AISec (CCS workshop) --- 2019, 2020, 2021, 2022
-- DIMVA --- [2020](https://dimva2020.campus.ciencias.ulisboa.pt/), [2021](https://dimva2021.campus.ciencias.ulisboa.pt/organization.html), 2022, 2023, 2024
+- DIMVA --- [2020](https://dimva2020.campus.ciencias.ulisboa.pt/), [2021](https://dimva2021.campus.ciencias.ulisboa.pt/organization.html), 2022, 2023, 2024, 2025
 - ARES --- [2020](https://2020.ares-conference.eu), [2021](https://www.ares-conference.eu/committee/)
 - MLHat (KDD Workshop) --- 2021
 - [DSML](https://dependablesecureml.github.io/) (DSN Workshop) --- 2020, 2021

@@ -3,7 +3,7 @@ layout: page
 title: grants
 permalink: /grants/
 description: A selection of relevant grants-related project.
-nav: true
+nav: false
 nav_order: 8
 display_categories: [grants]
 horizontal: false
