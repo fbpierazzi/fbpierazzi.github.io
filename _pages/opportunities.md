@@ -15,10 +15,11 @@ In this section I planning to keep up-to-date information (as much as possible) 
 
 Please note that these opportunities are highly competitive and funding is not guaranteed. 
 
-* **CDT in Cyber-Physical Risk: "Risk assessment and mitigation of threats to AI-enabled devices in cyber-physical-social systems"** <span class="badge badge-info">Deadline: ~April 2025 (TBC)</span> <span class="badge badge-warning">Home Studentship Only</span>
+* **CDT in Cyber-Physical Risk: "Risk assessment and mitigation of threats to AI-enabled devices in cyber-physical-social systems"** <span class="badge badge-info">Deadline: April 15, 2025</span> <span class="badge badge-warning">Home Studentship Only</span>
     * [PhD Open Evening on March 6th at 6pm-8pm](https://www.findaphd.com/phds/program/epsrc-centre-for-doctoral-training-cdt-in-cyber-physical-risk/?i274p6758)
     * [Project Description](https://www.ucl.ac.uk/security-crime-science/project-proposals)
-    * [Programme and How to Apply](https://www.ucl.ac.uk/security-crime-science/study/postgraduate-research/epsrc-centre-doctoral-training-cyber-physical-risk)
+    * [Programme](https://www.ucl.ac.uk/security-crime-science/study/postgraduate-research/epsrc-centre-doctoral-training-cyber-physical-risk)
+    * [How to Apply](https://www.ucl.ac.uk/security-crime-science/how-apply-and-secure-funding)
     * Second Supervisor: Dr. Anna Maria Mandalari (UCL EEE)
         * I am also involved in the supervision team of another CDT project led by Dr. Mandalari: "Enhancing crime detection and investigation in the Internet of Things era"
     * Expected Start Date: October 2025
