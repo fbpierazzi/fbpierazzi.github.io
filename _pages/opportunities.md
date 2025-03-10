@@ -32,7 +32,7 @@ Please note that these opportunities are highly competitive and funding is not g
 * **"Drift Forensics of Machine Learning for Malware Classification"** <span class="badge badge-info">Deadline: June 2025 (TBC)</span> 
     * [Project Description](https://ucl-epsrc-dtp.github.io/2025-26-project-catalogue/projects/2531ad1513.html)
     * [Programme and How to Apply](https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/apply-ucl-epsrc-landscape-award-uela-studentship)
-    * Applications are now closed for Round 1. Round 2 is expected to open in February 2025 and close in early June 2025 (depends also on outcome of Round 1)
+        * **Note from the UELA website** Please note that that Round 1 of the UELA application deadline has now passed. Round 2 will open in February and close in early June. We will not know whether there are places available for round 2 until after it closes, and Round 2 will be for Home candidates only. We strongly recommend you apply by the initial deadline for round 1 of 13:00 UK time on 28 January 2025.
     * Second Supervisor: Prof. Lorenzo Cavallaro (UCL CS)
     * Expected Start Date: October 2025
 
