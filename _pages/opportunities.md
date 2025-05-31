@@ -15,8 +15,13 @@ In this section I planning to keep up-to-date information (as much as possible) 
 
 Please note that these opportunities are highly competitive and funding is not guaranteed. 
 
-* **CDT in Cyber-Physical Risk: "Risk assessment and mitigation of threats to AI-enabled devices in cyber-physical-social systems"** <span class="badge badge-info">Deadline: April 15, 2025</span> <span class="badge badge-warning">Home Studentship Only</span>
-    * [PhD Open Evening on March 6th at 6pm-8pm](https://www.findaphd.com/phds/program/epsrc-centre-for-doctoral-training-cdt-in-cyber-physical-risk/?i274p6758)
+* **"Drift Forensics of Machine Learning for Malware Classification"** <span class="badge badge-info">Deadline: June 2, 2025 (13:00 UK time)</span>  <span class="badge badge-warning">Home Studentship Only</span>
+    * [Project Description](https://ucl-epsrc-dtp.github.io/2025-26-project-catalogue/projects/2531ad1513.html)
+    * [Programme and How to Apply](https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/apply-ucl-epsrc-landscape-award-uela-studentship)
+    * Second Supervisor: Prof. Lorenzo Cavallaro (UCL CS)
+    * Expected Start Date: October 2025
+
+* **CDT in Cyber-Physical Risk: "Risk assessment and mitigation of threats to AI-enabled devices in cyber-physical-social systems"** <span class="badge badge-info">Deadline: June 15, 2025</span> <span class="badge badge-warning">Home Studentship Only</span>
     * [Project Description](https://www.ucl.ac.uk/security-crime-science/project-proposals)
     * [Programme](https://www.ucl.ac.uk/security-crime-science/study/postgraduate-research/epsrc-centre-doctoral-training-cyber-physical-risk)
     * [How to Apply](https://www.ucl.ac.uk/security-crime-science/how-apply-and-secure-funding)
@@ -24,20 +29,15 @@ Please note that these opportunities are highly competitive and funding is not g
         * I am also involved in the supervision team of another CDT project led by Dr. Mandalari: "Enhancing crime detection and investigation in the Internet of Things era"
     * Expected Start Date: October 2025
 
-* **"Explainable, Knowledge-driven AI and ML for Systems Security"** <span class="badge badge-info">Deadline: Rolling</span> <span class="badge badge-warning">Home Studentship Only</span>
+* **"Explainable, Knowledge-driven AI and ML for Systems Security"** <span class="badge badge-info">Deadline: Rolling</span> <span class="badge badge-warning">Primarily Home Studentship</span>
     * [Project Description](https://www.findaphd.com/phds/programme/ucl-s-department-of-computer-science-offers-fully-funded-home-studentships-starting-september-2025/?p6777)
     * [Programme and How to Apply](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/computer-science-4-year-programme-mphil-phd)
-    * Expected Start Date: September 2025 (if application received by ~end of March 2025)
-
-* **"Drift Forensics of Machine Learning for Malware Classification"** <span class="badge badge-info">Deadline: June 2025 (TBC)</span> 
-    * [Project Description](https://ucl-epsrc-dtp.github.io/2025-26-project-catalogue/projects/2531ad1513.html)
-    * [Programme and How to Apply](https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/apply-ucl-epsrc-landscape-award-uela-studentship)
-        * **Note from the UELA website** Please note that that Round 1 of the UELA application deadline has now passed. Round 2 will open in February and close in early June. We will not know whether there are places available for round 2 until after it closes, and Round 2 will be for Home candidates only. We strongly recommend you apply by the initial deadline for round 1 of 13:00 UK time on 28 January 2025.
-    * Second Supervisor: Prof. Lorenzo Cavallaro (UCL CS)
-    * Expected Start Date: October 2025
+    * Expected Start Date: October 2026 
+    * Note: The scholarship with this project is primarily for Home students, but funding may be considered in the case of really outstanding oversea candidates.
 
 
-This list was last updated on March 4th, 2025.
+
+This list was last updated on May 31st, 2025.
 
 
 ## Vacancies: PostDoc Opportunities 

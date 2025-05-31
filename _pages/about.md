@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Associate Professor</b> in Computer Science at University College London
+subtitle: <b>Associate Professor</b> in Computer Science at University College London <br> Member of the <a href="https://sec.cs.ucl.ac.uk">UCL Information Security Group</a>
 
 profile:
   align: right

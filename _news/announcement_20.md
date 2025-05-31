@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Updated opportunities for fully-funded Home Studentship at UCL see [here](/opportunities)
+Updated opportunities for fully-funded Home Studentship at UCL: see [here](/opportunities)

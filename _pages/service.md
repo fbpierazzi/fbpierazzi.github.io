@@ -17,8 +17,9 @@ nav_order: 5
 - DIMVA 2020: Outstanding Reviewer Award
 - IJCAI 2018: Distinguished PC Member 
 
-### Program Chair
+### Program/Track Co-Chair
 
+- ACM CCS 2026: "Machine Learning and Security" Track
 - [4th Workshop on Rethinking Malware Analysis (WoRMA)](https://worma.gitlab.io/2025/), co-located with IEEE EuroS&P --- 2025
 - [3rd Workshop on Rethinking Malware Analysis (WoRMA)](https://worma.gitlab.io/2024/), co-located with IEEE EuroS&P --- 2024
 - [2nd Workshop on Robust Malware Analysis (WoRMA)](https://worma.gitlab.io/2023/), co-located with IEEE EuroS&P --- 2023

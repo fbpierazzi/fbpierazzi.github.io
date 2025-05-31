@@ -9,9 +9,10 @@ nav_order: 4
 
 To explore vacancies and opportunities, see [this page](/opportunities/).
 
-### PostDocs
+### Research Associates
 
-- **Mario D'Onghia** (2024--), Robust Explanations for Malware Detection
+- **Mario D'Onghia** (2024--), PostDoc on Robust Explanations for Malware Detection
+- **Mario Lilli** (2024--), [KTP](https://www.ukri.org/councils/innovate-uk/guidance-for-applicants/guidance-for-specific-funds/knowledge-transfer-partnership-guidance/) Research Associate on Formal Methods for Kubernetes Security (co-supervised with [Prof. Luca Viganò](https://www.kcl.ac.uk/people/luca-vigano) and [ControlPlane](https://control-plane.io/))
 
 ### Ph.D. Students
 
@@ -21,6 +22,7 @@ To explore vacancies and opportunities, see [this page](/opportunities/).
 
 ### Research Visitors
 - **Silvio Russo** (May 2025, 6 months), University of Bologna, Italy
+- **Jenjira Jaimunk** (April 2025, 2 months), Chiang Mai University
 
 # Past Members
 
