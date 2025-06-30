@@ -31,7 +31,7 @@ While Machine learning is going to be a main focus, we will focus in general on 
 | Monday, July 7th, 2025    | 09-13, 14-16 | Sala Riunioni Primo Piano - DIEF MO27                       |
 | Tuesday, July 8th, 2025   | 09-13, 14-16  | Sala Riunioni Primo Piano - DIEF MO27 |
 | Wednesday, July 9th, 2025 | 09-13 | Sala Riunioni Primo Piano - DIEF MO27                                |
-| Thursday, July 10th, 2024  | 14-18 | Sala Riunioni Primo Piano - DIEF MO27                          |
+| Thursday, July 10th, 2024  | N/A | N/A |
 | Friday, July 11th, 2024    | 09-13  | Sala Riunioni Primo Piano - DIEF MO27               |
 |----------------------------|-------|-------------------------------------------------|
 
