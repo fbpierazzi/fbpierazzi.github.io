@@ -31,8 +31,8 @@ nav_order: 5
 
 
 ### Technical Program Committee
-- IEEE S&P (Oakland) --- 2022, 2023, 2024, 2026
-- USENIX Security Symposium --- 2022, 2023, 2024, [2025](https://www.usenix.org/conference/usenixsecurity25)
+- IEEE Symposium on Security & Privacy (S&P; Oakland) --- 2022, 2023, 2024, 2026
+- USENIX Security Symposium --- 2022, 2023, 2024, [2025](https://www.usenix.org/conference/usenixsecurity25), [2026](https://www.usenix.org/conference/usenixsecurity26)
 - [IEEE SaTML](https://satml.org) --- 2023, 2024, 2025
 - IEEE EuroS&P --- [2025](https://eurosp2025.ieee-security.org) 
 - ACM CCS --- 2022, 2023

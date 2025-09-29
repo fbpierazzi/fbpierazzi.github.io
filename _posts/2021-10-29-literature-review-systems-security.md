@@ -2,7 +2,7 @@
 layout: post
 title:  How to Review Literature in Systems Security
 date: 2021-10-29 21:00:00
-description: Advices on how to do literature review and related work in the field of computer security.
+description: Advice on how to do literature review and related work in the field of computer security and AI.
 tags: tutorial writing
 categories: tutorial
 toc:
@@ -12,13 +12,16 @@ featured: false
 giscus_comments: false
 ---
 
-This post is targeted mostly for BSc/MSc students doing their dissertations, or early career Ph.D. students who need support in understanding how to conduct a proper literature review in systems security, and to position your work within the state of the art.
+> **Note:** This post is outdated. For the latest and most comprehensive advice on literature review in systems security, please check out the [Resources page](/resources/literature-review).
 
-**Disclaimer**: Please note that this post represents my own personal opinion (which also evolves over time as I learn more :-) ), based on my experience so far as a researcher working in Systems Security & AI. My intent is solely to provide initial recommendations to early career research students tackling their first large project who want to understand better how to conduct a literature review. If you have any feedback, I'd be more than happy to challenge my views and integrate and revise my recommendations!
+
+Are you a BSc or MSc student embarking on your dissertation, or an early-stage Ph.D. researcher feeling uncertain about how to approach a literature review in systems security? If so, this post is for you. Here, I’ll share practical advice and guidance to help you navigate the process of reviewing the literature and positioning your work within the current state of the art in systems security research. 
+
+**Friendly Note:** Everything in this post comes from my own experience (which is always growing and changing!), and reflects my personal take on reviewing literature in Systems Security & AI. My goal is simply to share some tips and starting points for students who are beginning their first big research project and want to get a handle on how to approach a literature review. If you have thoughts, questions, or suggestions, If you have any feedback, I'd be more than happy to challenge my views, and revise my recommendations! 
 
 ---
 
-In these years as a faculty member and academic supervisor, I see students struggle more and more with understanding how to conduct a literature review. This is understandable: the field has been growing extensively, and more and more papers get published in reputable venues, so it is hard to create a "mental compass" to orient yourself in this sea of literature. Even within Computer Science, every discipline has different venues and understanding how to look for related works requires some effort and experience. Indeed, this guide is meant mostly for Systems Security.
+In these years as an academic supervisor, I see students struggle more and more with understanding how to conduct a literature review. This is understandable: the field has been growing extensively, and more and more papers get published in reputable venues, so it is hard to create a "mental compass" to orient yourself in this sea of literature. Even within Computer Science, every discipline has different venues and understanding how to look for related works requires some effort and experience. Indeed, this guide is meant mostly for Systems Security.
 
 During my undergraduate dissertation, I really struggled to understand what it meant to write a "Related Work" section. I got confused because---to me---it looked very similar to the "Introduction" section. Moreover, I felt intimidated to approach and read "research papers" written by experts, as I thought you needed to be a "genius" to read one of those.
 
@@ -44,7 +47,7 @@ My list does not intend to be exhaustive, but just indicative.
 
 Two highly recommended reads are the following:
 
-- [Influental Security Papers](https://www.sec.cs.tu-bs.de/~konrieck/topnotch/), by Konrad Rieck, TU Braunschweig
+- [Influental Security Papers](https://www.sec.cs.tu-bs.de/~konrieck/topnotch/), by Konrad Rieck, TU Berlin
 - [System Security Circus](https://www.s3.eurecom.fr/~balzarot/notes/top4_2020/), by Davide Balzarotti, S3@Eurecom
 
 
