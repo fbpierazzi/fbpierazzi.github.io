@@ -74,11 +74,11 @@ Most of the progress meetings, at least in my area, are about reporting and disc
 * **Clarify objective of the experiment.** What is the hypothesis we were testing with this experiment? If the research question is lost, maybe the experiment was ill-posed. This needs to re-connect with the project objectives in the opening slides. If your supervisor or collaborators ask for an experiment, but you do not understand the objective, feel free to challenge it during a meeting, with reasoning and argumentation.  
 * **Include your own observations on the results.** Sometimes it is easy to get lost in the details, and come to the meetings with many, many results, plots, tables, but no clear idea on how to interpret them. You should always try and reflect before the meeting and come up with some key bullet points of what the results may entail, and not wait for your supervisor/collaborators to infer it. 
 
-* **Make sure figures are polished**. Make sure that any plot in your presentation has the following:
-  * Make sure the plot is clearly readable. If you need help to make it readable, ask colleagues or the supervisor beforehand. Capture also to any feedback provided during your presentations, on how to make plots more readable.
-  * Make sure that X-label and Y-label are present.
-  * Makre sure that colors are distinguishable (e.g., color-blind friendly), and different lines/bars have different styles.
-  * Make sure there is a legend for the different lines. Each configuration name in the legend is clearly explained.
+* **Make sure figures are polished**. Ahead of any meeting, make sure that any plot in your presentation has the following:
+  * The plot is clearly readable. If you need help to make it readable, ask colleagues or the supervisor beforehand. Capture also to any feedback provided during your presentations, on how to make plots more readable.
+  * The X-label and Y-label are present, with clear names and units.
+  * Colors used in plots are distinguishable (e.g., color-blind friendly), and different lines/bars have different styles.
+  * There is a "legend" for the different lines/bars in the plots. Each configuration name in the legend is clearly explained.
   * If using performance metrics such as F1-Score, make sure Y-axis is normalized between 0 and 1 (for comparing plots fairly). 
   * Each plot needs to have a clear title in the slides. This is to clearly connect a plot with a certain experimental settings.
 
