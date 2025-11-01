@@ -10,6 +10,7 @@ nav_order: 5
 
 ### Reviewing Awards
 
+- USENIX Security 2025: Notable Reviewer
 - IEEE SaTML 2023: Notable Reviewer 
 - ACM CCS 2022: Top Reviewer (Top 10% of reviewers)
 - NeurIPS 2021: Outstanding Reviewer Award (Top 8% of reviewers)

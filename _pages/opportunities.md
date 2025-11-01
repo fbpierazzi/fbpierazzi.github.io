@@ -15,29 +15,28 @@ In this section I planning to keep up-to-date information (as much as possible) 
 
 Please note that these opportunities are highly competitive and funding is not guaranteed. 
 
-* **"Drift Forensics of Machine Learning for Malware Classification"** <span class="badge badge-info">Deadline: June 2, 2025 (13:00 UK time)</span>  <span class="badge badge-warning">Home Studentship Only</span>
-    * [Project Description](https://ucl-epsrc-dtp.github.io/2025-26-project-catalogue/projects/2531ad1513.html)
+* **"Rethinking Intrusion Detection with Advanced AI for Explainable, Robust and Cost-Aware Decisions"** <span class="badge badge-info">Deadline: January 5, 2026 (13:00 UK time)</span> <span class="badge badge-danger">Home/International Candidates</span>
+    * [Project Description](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1649.html)
     * [Programme and How to Apply](https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/apply-ucl-epsrc-landscape-award-uela-studentship)
     * Second Supervisor: Prof. Lorenzo Cavallaro (UCL CS)
     * Expected Start Date: October 2025
 
-* **CDT in Cyber-Physical Risk: "Risk assessment and mitigation of threats to AI-enabled devices in cyber-physical-social systems"** <span class="badge badge-info">Deadline: June 15, 2025</span> <span class="badge badge-warning">Home Studentship Only</span>
+* **"Explainable, Knowledge-driven AI and ML for Systems Security"** <span class="badge badge-info">Deadline: January 28, 2026 (Cycle 1)</span> <span class="badge badge-warning">Home Candidates Only</span>
+    * [Project Description](https://www.findaphd.com/phds/programme/ucl-s-department-of-computer-science-offers-fully-funded-home-studentships-starting-september-2026/?p6777)
+    * [Programme and How to Apply](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/computer-science-4-year-programme-mphil-phd)
+    * Cycle 2 will have submissions by April 2026
+    * Expected Start Date: September 2026 
+
+* **CDT in Cyber-Physical Risk: "Risk assessment and mitigation of threats to AI-enabled devices in cyber-physical-social systems"** <span class="badge badge-info">Deadline: TBC soon</span> <span class="badge badge-warning">Home Candidates Only</span>
     * [Project Description](https://www.ucl.ac.uk/security-crime-science/project-proposals)
     * [Programme](https://www.ucl.ac.uk/security-crime-science/study/postgraduate-research/epsrc-centre-doctoral-training-cyber-physical-risk)
     * [How to Apply](https://www.ucl.ac.uk/security-crime-science/how-apply-and-secure-funding)
     * Second Supervisor: Dr. Anna Maria Mandalari (UCL EEE)
-        * I am also involved in the supervision team of another CDT project led by Dr. Mandalari: "Enhancing crime detection and investigation in the Internet of Things era"
-    * Expected Start Date: October 2025
-
-* **"Explainable, Knowledge-driven AI and ML for Systems Security"** <span class="badge badge-info">Deadline: Rolling</span> <span class="badge badge-warning">Primarily Home Studentship</span>
-    * [Project Description](https://www.findaphd.com/phds/programme/ucl-s-department-of-computer-science-offers-fully-funded-home-studentships-starting-september-2025/?p6777)
-    * [Programme and How to Apply](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/computer-science-4-year-programme-mphil-phd)
-    * Expected Start Date: October 2026 
-    * Note: The scholarship with this project is primarily for Home students, but funding may be considered in the case of really outstanding oversea candidates.
+    * Expected Start Date: ~October 2026
+    * More information should come out in November 2025. 
 
 
-
-This list was last updated on May 31st, 2025.
+This list was last updated on October 27, 2025.
 
 
 ## Vacancies: PostDoc Opportunities 
