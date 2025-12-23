@@ -20,9 +20,6 @@ Ph.D. Students:
 - **Shae McFadden** (2023--), Deep Reinforcement Learning and Security
 - **Xin Fan Guo** (2023--), Model-driven Intrusion Detection
 
-Research Visitors:
-- **Silvio Russo** (May 2025, 6 months), _University of Bologna, Italy_
-
 ***
 
 ### Past Members
@@ -41,6 +38,7 @@ Ph.D. Alumni:
 
 Research Visitors:
 
+- Silvio Russo (May 2025, 6 months), _University of Bologna, Italy_
 - Jenjira Jaimunk (April 2025, 2 months), _Chiang Mai University, Thailand_
 - Alessandro Sanna (Mar 2024, 3 months), _University of Cagliari, Italy_
 - Hamid Bostani (Oct 2023, 6 months), _Radboud University, Netherlands_

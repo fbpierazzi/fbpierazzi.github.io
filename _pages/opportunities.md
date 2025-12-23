@@ -11,7 +11,7 @@ I am always looking for motivated  Ph.D. students to join my team at UCL. If you
 
 ## Vacancies: Ph.D. Opportunities
 
-In this section I planning to keep up-to-date information (as much as possible) about possible Ph.D. opportunities under my supervision. This list may not be exhaustive, and---depending on when you read this page---may contain expired opportunities. 
+In this section I planning to keep up-to-date information (as much as possible) about possible Ph.D. opportunities under my supervision. This list may not be exhaustive, and (depending on when you read this page) may contain expired opportunities. 
 
 Please note that these opportunities are highly competitive and funding is not guaranteed. 
 
@@ -27,16 +27,15 @@ Please note that these opportunities are highly competitive and funding is not g
     * Cycle 2 will have submissions by April 2026
     * Expected Start Date: September 2026 
 
-* **CDT in Cyber-Physical Risk: "Risk assessment and mitigation of threats to AI-enabled devices in cyber-physical-social systems"** <span class="badge badge-info">Deadline: TBC soon</span> <span class="badge badge-warning">Home Candidates Only</span>
+* **CDT in Cyber-Physical Risk: "Risk assessment and mitigation of threats to AI-enabled devices in cyber-physical-social systems"** <span class="badge badge-info">Deadline: February 15, 2026</span> <span class="badge badge-warning">Home Candidates Only</span>
     * [Project Description](https://www.ucl.ac.uk/security-crime-science/project-proposals)
     * [Programme](https://www.ucl.ac.uk/security-crime-science/study/postgraduate-research/epsrc-centre-doctoral-training-cyber-physical-risk)
-    * [How to Apply](https://www.ucl.ac.uk/security-crime-science/how-apply-and-secure-funding)
+    * [How to Apply](https://www.ucl.ac.uk/engineering/security-crime-science/study/postgraduate-research/epsrc-centre-doctoral-training-cyber-physical-risk/how-apply-and-secure-funding)
     * Second Supervisor: Dr. Anna Maria Mandalari (UCL EEE)
-    * Expected Start Date: ~October 2026
-    * More information should come out in November 2025. 
+    * Expected Start Date: October 2026 
 
 
-This list was last updated on October 27, 2025.
+This list was last updated on December 23, 2025.
 
 
 ## Vacancies: PostDoc Opportunities 
