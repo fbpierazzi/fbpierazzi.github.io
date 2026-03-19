@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[PhD Opportunity](/opportunities/) for Home/UK only (deadline: Apr 10, 2026).
+[PhD Opportunity](/opportunity/phd-ucl-cs-2026) for Home/UK only (deadline: Apr 10, 2026).

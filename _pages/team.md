@@ -9,23 +9,24 @@ nav_order: 4
 
 To explore vacancies and opportunities, see [this page](/opportunities/).
 
-Research Associates:
+## Ph.D. Students 
 
-- **Mario D'Onghia** (2024--), PostDoc on Robust Explanations for Malware Detection
-- **Mario Lilli** (2024--), [KTP](https://www.ukri.org/councils/innovate-uk/guidance-for-applicants/guidance-for-specific-funds/knowledge-transfer-partnership-guidance/) Research Associate on Formal Methods for Kubernetes Security at King's College London (co-supervised with [Prof. Luca Viganò](https://www.kcl.ac.uk/people/luca-vigano) and [ControlPlane](https://control-plane.io/))
-
-Ph.D. Students:
-
-- **Theo Hoifung Chow** (2021--), Robustness of Machine Learning Explanations in Systems Security
 - **Shae McFadden** (2023--), Deep Reinforcement Learning and Security
 - **Xin Fan Guo** (2023--), Model-driven Intrusion Detection
+- **Wael Mahlous** (2025--), Enhancing Crime Detection and Investigation in the IoT era (co-supervised w/ Dr. Anna Maria Mandalari and Dr. Nilufer Tiptuk)
+
+## PostDocs
+
+- **Mario D'Onghia** (2024--), Research Fellow on Trustworthy ML for Malware Detection
+- **Mario Lilli** (2024--), [KTP](https://www.ukri.org/councils/innovate-uk/guidance-for-applicants/guidance-for-specific-funds/knowledge-transfer-partnership-guidance/) Research Associate on Formal Methods for Security at King's College London (co-supervised with [Prof. Luca Viganò](https://www.kcl.ac.uk/people/luca-vigano) and [ControlPlane](https://control-plane.io/))
+
 
 ***
 
-### Past Members
+## Past Members: Ph.D. Alumni
 
-Ph.D. Alumni:
-
+- **[Theo Chow](https://www.linkedin.com/in/theo-chow-07519b17b/)** (2021--2026)
+    - Ph.D. Thesis title: "Addressing Dataset Bias in Android Malware Classifiers under Distribution Shift"
 - **[Jacopo Cortellazzi](https://www.linkedin.com/in/jacopocortellazzi/)** (2019--2024)
     - Ph.D. Thesis title: "Robustness of Machine Learning-based Malware Detection Models" 
     - First job after graduation: AI Security Researcher @ Apple
@@ -36,7 +37,7 @@ Ph.D. Alumni:
     - Ph.D. Thesis title: "Machine Learning for Security in Hostile Environments" 
     - First job after graduation: Software Engineer @ Meta
 
-Research Visitors:
+## Past Members: Research Visitors
 
 - Silvio Russo (May 2025, 6 months), _University of Bologna, Italy_
 - Jenjira Jaimunk (April 2025, 2 months), _Chiang Mai University, Thailand_
@@ -51,7 +52,7 @@ Research Visitors:
 - Ilias Tsingenopoulos (Jan 2023, 3 months), _KU Leuven, Belgium_
 - Shae McFadden, _King's College London, UK_
 
-Undergraduate Students - Research Internships:
+## Past Members: BSc Research Internships
 
 - Jeevan Jutla (2023), _King's College London, UK_
 - Shae McFadden (2023), _King's College London, UK_

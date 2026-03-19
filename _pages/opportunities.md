@@ -15,11 +15,14 @@ In this section I planning to keep up-to-date information (as much as possible) 
 
 Please note that these opportunities are highly competitive and funding is not guaranteed. 
 
+#### Open PhD Opportunities
 
 * **"Explainable, Knowledge-driven AI and ML for Systems Security"** <span class="badge badge-info">Deadline: April 10, 2026</span> <span class="badge badge-warning">Home Candidates Only</span>
-    * [Project Description](https://www.findaphd.com/phds/programme/ucl-s-department-of-computer-science-offers-fully-funded-home-studentships-starting-september-2026/?p6777)
+    * [Project Description](/opportunity/phd-ucl-cs-2026)
     * [Programme and How to Apply](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/computer-science-4-year-programme-mphil-phd)
-    * Expected Start Date: September 2026 
+    * Expected Start Date: October 2026 
+
+#### Closed PhD Opportunities
 
 * **CDT in Cyber-Physical Risk: "Risk assessment and mitigation of threats to AI-enabled devices in cyber-physical-social systems"** <span class="badge badge-info">Deadline: February 15, 2026</span> <span class="badge badge-warning">Home Candidates Only</span>
     * [Project Description](https://www.ucl.ac.uk/security-crime-science/project-proposals)
@@ -44,22 +47,24 @@ I currently have no PostDoc openings.
 
 ## Research Vision
 
-My research aims to develop adaptive cybersecurity solutions that leverage behavioral modeling to detect emerging threats and novel attack patterns. A key aspect of my work is ensuring that these models produce interpretable decisions, enabling security analysts to effectively assess and respond to potential risks.
+My research focuses on developing adaptive cybersecurity solutions by leveraging behavioral modeling, knowledge-driven systems, and the latest advances in artificial intelligence. A core theme of my work is ensuring that these models are not only effective at identifying emerging threats and novel attack patterns, but also produce interpretable and explainable decisions that empower security analysts to make informed responses.
 
-I am particularly interested in adversarially dynamic environments, where traditional detection mechanisms struggle due to distribution shift and adversarsaries. A core aspect is on seeking techniques on how to embed knowledge into data-driven system (e.g., with symbolic AI), to improve the trustworthiness (primarily, robustness and explainability) of AI-driven security systems.
+I am especially interested in adversarial and dynamically evolving environments, where classic detection methods often break down due to shifting threats and adaptive attackers. My research includes approaches for embedding expert knowledge into AI-driven systems, such as neurosymbolic AI, to improve their trustworthiness, robustness, and transparency. I am also keen to study the opportunities and risks posed by emerging technologies like large language models (LLMs) and agentic AI systems, while keeping a practical focus on cost-effective solutions, for example by exploring the use of small language models (SLMs).
 
-To get a better idea of the type of my research, and to see if you would like working in this space, I recommend you to read/skim some of my [latest papers](/publications/).
+If you’d like to get a sense of my research interests and whether this area excites you, I encourage you to browse some of my [latest papers](/publications/).
 
-I am looking to solve problems in many domains with incoming  students, including (but not limited to):
+I am looking to solve problems in many domains with incoming students, including (but not limited to):
 
 - Embedding Expert Knowledge in ML Systems for Security 
-- Explainable Security
-- AI-Driven Threat Detection
+- Explainable Security solutions
+- Trustworthy Dataset Curation
+- AI-Driven Threat Detection, including novel applications of Small Language Models (SLMs)
 - Automated Security Testing
+- Co-designing AI-driven solutions to support analysts in real-world security investigations, ensuring methods are genuinely practical and user-centric
 
 ## Prospective Ph.D. Candidates
 
-I am looking for candidates with a BSc/MSc in Computer Science (or analogous), and a strong mathematical and systems security background. Passion and commitment may partially compensate for background deficiencies in either of these two (but hardly for both). You need to be comfortable with scripting and coding, preferably in one or more of Python/Java/C/C++. You must hold a genuine interest with my research agenda, and in improving the state-of-the-art through top-quality publications.
+I am looking for candidates with a BSc/MSc in Computer Science (or analogous), and a strong mathematical and systems security background. Passion and commitment may partially compensate for background deficiencies in either of these two (but hardly for both). You need to be comfortable with scripting and coding, preferably in Python. You must hold a genuine interest with my research agenda, and in improving the state-of-the-art through top-quality publications.
 
 Getting a Ph.D. is extremely challenging and, often times, frustrating. Experiments take long hours and often do not work out as expected. Top conferences have an acceptance rate of 10-15%, which means you will face a lot of rejections. Creating new knowledge is extremely rewarding, but requires creativity, persistence and motivation. This is part of the reason for which I am considering only **full-time** applications at this point in time.
 
