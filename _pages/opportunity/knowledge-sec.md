@@ -2,7 +2,7 @@
 layout: page
 permalink: /opportunity/phd-ucl-cs-2026
 title: Opportunity for Ph.D. at UCL CS
-description: Competitive, Fully-Funded Opportunity for 4-Year Ph.D. at UCL Computer Science
+description: Competitive, Fully-Funded Opportunity for 4-Year Ph.D. at UCL Computer Science (Home/UK candidates only)
 tags: opportunity
 categories: opportunity
 ---
