@@ -70,6 +70,7 @@ categories: opportunity
   </style>
 </div>
 
+
 The rapid evolution of AI and ML is fundamentally transforming the landscape of systems security. Recent advances, such as large language models (LLMs) and agentic AI systems, are not only enhancing our ability to automate the detection, investigation, and mitigation of cyber threats, they also introduce emerging opportunities. For example, these technologies offer new ways to support analysts in exploring and structuring vast bodies of security knowledge, potentially enabling richer understanding and more effective investigations. At the same time, their increasing use brings new security and privacy challenges, including novel attack vectors against AI-enabled applications, risks from models that may behave unpredictably in complex environments, and evolving adversarial tactics that target both traditional systems and AI-driven defences. These dynamics highlight an urgent need for AI in security that is not just powerful, but also trustworthy, transparent, and truly supportive of human users.
 
 Current research has exposed limitations in both AI models and human workflows. Models can fail under evolving threats (concept drift), be compromised by misleading or incomplete data, or miss subtle real-world attacker behaviors due to oversimplified problem settings. In parallel, human analysts often face cognitive overload and lack effective support tools to investigate, interpret, and respond to sophisticated attacks, especially as AI models and their outputs become more complex and less transparent.
@@ -84,6 +85,9 @@ This Ph.D. project will focus on developing AI/ML techniques for systems securit
 - Establishing principled evaluation frameworks and robust datasets that reflect realistic, evolving environments, rather than artificially simplified or static scenarios, to guarantee that research outcomes can have genuine practical impact.
 
 The overarching ambition is to bridge the gap between advances in AI/ML and their practical application in adversarial security settings, building solutions that empower both automated defences and human analysts, and ultimately achieving tangible, real-world benefits for systems security.
+
+
+
 
 #### Ideal Candidate
 

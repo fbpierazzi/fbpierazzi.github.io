@@ -11,18 +11,20 @@ I am always looking for motivated  Ph.D. students to join my team at UCL. If you
 
 ## Vacancies: Ph.D. Opportunities
 
-In this section I planning to keep up-to-date information (as much as possible) about possible Ph.D. opportunities under my supervision. This list may not be exhaustive, and (depending on when you read this page) may contain expired opportunities. 
+This section provides up-to-date information about Ph.D. opportunities under my supervision. Note that the list may not be exhaustive and may include expired opportunities, as it is maintained manually. 
 
-Please note that these opportunities are highly competitive and funding is not guaranteed. 
+These positions are highly competitive and funding is not guaranteed. 
 
 #### Open PhD Opportunities
+
+Currently, there are no funded opportunities available for entry in 2026–2027. Interested candidates should also consult the official UCL webpages and my [LinkedIn profile](https://www.linkedin.com/in/fpierazzi/) for the latest information, as new opportunities can become available anytime.
+
+#### Closed PhD Opportunities
 
 * **"Explainable, Knowledge-driven AI and ML for Systems Security"** <span class="badge badge-info">Deadline: April 10, 2026</span> <span class="badge badge-warning">Home Candidates Only</span>
     * [Project Description](/opportunity/phd-ucl-cs-2026)
     * [Programme and How to Apply](https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/computer-science-4-year-programme-mphil-phd)
     * Expected Start Date: October 2026 
-
-#### Closed PhD Opportunities
 
 * **CDT in Cyber-Physical Risk: "Risk assessment and mitigation of threats to AI-enabled devices in cyber-physical-social systems"** <span class="badge badge-info">Deadline: February 15, 2026</span> <span class="badge badge-warning">Home Candidates Only</span>
     * [Project Description](https://www.ucl.ac.uk/security-crime-science/project-proposals)
@@ -38,7 +40,7 @@ Please note that these opportunities are highly competitive and funding is not g
     * Second Supervisor: Prof. Lorenzo Cavallaro (UCL CS)
     * Expected Start Date: October 2026
 
-This list was last updated on March 9th, 2026.
+This list was last updated on May 21st, 2026.
 
 
 ## Vacancies: PostDoc Opportunities 

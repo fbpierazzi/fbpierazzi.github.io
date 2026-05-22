@@ -20,6 +20,10 @@ To explore vacancies and opportunities, see [this page](/opportunities/).
 - **Mario D'Onghia** (2024--), Research Fellow on Trustworthy ML for Malware Detection
 - **Mario Lilli** (2024--), [KTP](https://www.ukri.org/councils/innovate-uk/guidance-for-applicants/guidance-for-specific-funds/knowledge-transfer-partnership-guidance/) Research Associate on Formal Methods for Security at King's College London (co-supervised with [Prof. Luca Viganò](https://www.kcl.ac.uk/people/luca-vigano) and [ControlPlane](https://control-plane.io/))
 
+## BSc Research Internships
+
+- **Ruihong Xu** (Summer 2026), UCL CS Summer Internship
+- **Yash Narain** (Summer 2026), Internship of Laidlaw Scholarship
 
 ***
 
