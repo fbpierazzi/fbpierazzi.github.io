@@ -1,17 +1,26 @@
-"AAAI": {}
+"AAAI":
+  color: "#00369f"
 
-"USENIX Sec": {}
+"USENIX Sec":
+  color: "#00369f"
 
-"IEEE S&P": {}
+"IEEE S&P":
+  color: "#00369f"
 
-"RAID": {}
+"RAID":
+  color: "#00369f"
 
-"IEEE SaTML": {}
+"IEEE SaTML":
+  color: "#00369f"
 
-"IEEE EuroS&P": {}
+"IEEE EuroS&P":
+  color: "#00369f"
 
-"AISec": {}
+"AISec":
+  color: "#3f9915"
 
-"DLSP": {}
+"DLSP":
+  color: "#3f9915"
 
-"arXiv": {}
+"arXiv":
+  color: "#555555"
