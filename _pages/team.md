@@ -9,21 +9,68 @@ nav_order: 4
 
 To explore vacancies and opportunities, see [this page](/opportunities/).
 
-## Ph.D. Students 
+<style>
+  .team-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1.5rem; margin: 1.25rem 0 3rem; }
+  .team-card {
+    text-align: center; padding: 2rem 1.25rem 1.5rem; border-radius: 1rem;
+    background: var(--global-card-bg-color);
+    border: 1px solid var(--global-divider-color);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04), 0 4px 16px rgba(0, 0, 0, 0.06);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .team-card:hover { transform: translateY(-4px); box-shadow: 0 2px 4px rgba(0, 0, 0, 0.06), 0 12px 28px rgba(0, 0, 0, 0.12); }
+  .team-photo {
+    width: 112px; height: 112px; border-radius: 50%; object-fit: cover; object-position: center 30%;
+    display: block; margin: 0 auto 1.1rem;
+    box-shadow: 0 0 0 4px var(--global-card-bg-color), 0 0 0 6px var(--global-theme-color);
+  }
+  .team-initials {
+    display: flex; align-items: center; justify-content: center;
+    background: var(--global-theme-color);
+    background: linear-gradient(135deg, var(--global-theme-color), color-mix(in srgb, var(--global-theme-color) 55%, #000));
+    color: #fff; font-size: 2.2rem; font-weight: 300; letter-spacing: 0.06em;
+  }
+  .team-name { font-size: 1.05rem; font-weight: 600; line-height: 1.3; }
+  .team-name a { color: inherit; text-decoration: none; }
+  .team-name a:hover { color: var(--global-theme-color); }
+  .team-name a i { font-size: 0.65em; margin-left: 0.3em; vertical-align: 0.15em; opacity: 0.5; }
+  .team-years { margin-top: 0.5rem; }
+  .team-years span {
+    display: inline-block; padding: 0.15rem 0.65rem; border-radius: 999px;
+    font-size: 0.75rem; font-weight: 500; letter-spacing: 0.02em;
+    color: var(--global-theme-color);
+    background: var(--global-divider-color);
+    background: color-mix(in srgb, var(--global-theme-color) 12%, transparent);
+  }
+  .team-topic { font-size: 0.875rem; margin-top: 0.85rem; line-height: 1.45; color: var(--global-text-color-light); }
+  .team-note {
+    font-size: 0.75rem; font-style: italic; line-height: 1.4; color: var(--global-text-color-light); opacity: 0.85;
+    margin-top: 0.75rem; padding-top: 0.65rem; border-top: 1px dashed var(--global-divider-color);
+  }
+</style>
 
-- **Shae McFadden** (2023--), Deep Reinforcement Learning and Security
-- **Xin Fan Guo** (2023--), Model-driven Intrusion Detection
-- **Wael Mahlous** (2025--), Enhancing Crime Detection and Investigation in the IoT era (co-supervised w/ Dr. Anna Maria Mandalari and Dr. Nilufer Tiptuk)
+{% for group in site.data.team.current %}
 
-## PostDocs
+## {{ group.group }}
 
-- **Mario D'Onghia** (2024--), Research Fellow on Trustworthy ML for Malware Detection
-- **Mario Lilli** (2024--), [KTP](https://www.ukri.org/councils/innovate-uk/guidance-for-applicants/guidance-for-specific-funds/knowledge-transfer-partnership-guidance/) Research Associate on Formal Methods for Security at King's College London (co-supervised with [Prof. Luca Viganò](https://www.kcl.ac.uk/people/luca-vigano) and [ControlPlane](https://control-plane.io/))
+<div class="team-grid">
+  {%- for m in group.members -%}
+  <div class="team-card">
+    {%- if m.image -%}
+    <img class="team-photo" src="{{ m.image | prepend: '/assets/img/' | relative_url }}" alt="{{ m.name }}" loading="lazy">
+    {%- else -%}
+    {%- assign name_parts = m.name | split: ' ' -%}
+    <div class="team-photo team-initials" aria-hidden="true">{{ name_parts.first | slice: 0 }}{{ name_parts.last | slice: 0 }}</div>
+    {%- endif -%}
+    <div class="team-name">{% if m.url %}<a href="{{ m.url }}">{{ m.name }}<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>{% else %}{{ m.name }}{% endif %}</div>
+    <div class="team-years"><span>{{ m.years }}</span></div>
+    {%- if m.topic -%}<div class="team-topic">{{ m.topic | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>{%- endif -%}
+    {%- if m.note -%}<div class="team-note">{{ m.note | markdownify | remove: '<p>' | remove: '</p>' | strip }}</div>{%- endif -%}
+  </div>
+  {%- endfor -%}
+</div>
 
-## BSc Research Internships
-
-- **Ruihong Xu** (Summer 2026), UCL CS Summer Internship
-- **Yash Narain** (Summer 2026), Internship of Laidlaw Scholarship
+{% endfor %}
 
 ***
 
@@ -31,6 +78,7 @@ To explore vacancies and opportunities, see [this page](/opportunities/).
 
 - **[Theo Chow](https://www.linkedin.com/in/theo-chow-07519b17b/)** (2021--2026)
     - Ph.D. Thesis title: "Addressing Dataset Bias in Android Malware Classifiers under Distribution Shift"
+    - First job after graduation: ML Researcher and Engineer @ Aeris-UK
 - **[Jacopo Cortellazzi](https://www.linkedin.com/in/jacopocortellazzi/)** (2019--2024)
     - Ph.D. Thesis title: "Robustness of Machine Learning-based Malware Detection Models" 
     - First job after graduation: AI Security Researcher @ Apple
@@ -40,6 +88,11 @@ To explore vacancies and opportunities, see [this page](/opportunities/).
 - **[Feargus Pendlebury](https://www.linkedin.com/in/feargus-pendlebury/)** (2017--2021), as _Second Supervisor_ 
     - Ph.D. Thesis title: "Machine Learning for Security in Hostile Environments" 
     - First job after graduation: Software Engineer @ Meta
+
+## Past Members: PostDocs
+
+- **[Mario Lilli](https://www.linkedin.com/in/mario-lilli-95236a208/)** (2024--2026), [KTP](https://www.ukri.org/councils/innovate-uk/guidance-for-applicants/guidance-for-specific-funds/knowledge-transfer-partnership-guidance/) Research Associate on Formal Methods for Security at King's College London (co-supervised with [Prof. Luca Viganò](https://www.kcl.ac.uk/people/luca-vigano) and [ControlPlane](https://control-plane.io/))
+    - First job after position: Senior Security Researcher @ Darktrace
 
 ## Past Members: Research Visitors
 

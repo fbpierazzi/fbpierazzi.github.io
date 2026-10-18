@@ -1,0 +1,52 @@
+# Current team members shown as cards on /team/.
+# image: optional, path relative to assets/img/ (e.g. team/shae-mcfadden.jpg); a square photo works best.
+#        Without one, the card shows the member's initials.
+# url:   optional personal/LinkedIn page; the name becomes a link.
+# topic: may contain Markdown links.
+# note:  optional secondary line in smaller text (e.g. co-supervision); may contain Markdown links.
+
+current:
+  - group: Ph.D. Students
+    members:
+      - name: Shae McFadden
+        years: 2023–present
+        topic: Deep Reinforcement Learning and Security
+        image: team/shae-headshot.jpg
+        url: https://mcfadden-s.github.io
+      - name: Xin Fan Guo
+        years: 2023–present
+        topic: Model-driven Intrusion Detection
+        image: team/xinfan.jpg
+        url:
+      - name: Wael Mahlous
+        years: 2025–present
+        topic: Enhancing Crime Detection and Investigation in the IoT era
+        note: Co-supervised with Dr. Anna Maria Mandalari and Dr. Nilufer Tuptuk
+        image:
+        url:
+      - name: Sam Beattie
+        years: 2026–present
+        topic:
+        image:
+        url:
+
+  - group: PostDocs
+    members:
+      - name: Mario D'Onghia
+        years: 2024–present
+        topic: Research Fellow on Trustworthy ML for Malware Detection
+        image: team/mario-headshot.jpg
+        url: https://www.mariodonghia.com
+
+  - group: BSc Research Internships
+    members:
+      - name: Ruihong Xu
+        years: Summer 2026
+        topic: UCL CS Summer Internship
+        image:
+        url:
+      - name: Yash Narain
+        years: Summer 2026
+        topic: Internship of Laidlaw Scholarship
+        image:
+        url:

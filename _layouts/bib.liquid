@@ -12,7 +12,8 @@
               `color: var(--global-card-bg-color) !important` (theme.scss / _publications.scss),
               which itself follows the viewer's OS light/dark preference. A plain inline
               `color:#fff` loses to that !important rule; it needs `!important` too so it wins on
-              specificity within the same importance tier. Venue colors in _data/venues.yml are
+              specificity within the same importance tier. The inner <div> below must also
+              inherit it explicitly (see comment there). Venue colors in _data/venues.yml are
               all dark, so pairing white text works; a future light venue color would need this
               overridden per-entry.
             {%- endcomment -%}
@@ -27,7 +28,11 @@
             {% if site.data.venues[entry.abbr].url %}
               <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
             {% else %}
-              <div>{{- entry.abbr -}}</div>
+              {%- comment -%}
+                main.css has `div { color: var(--global-text-color) }`, which would override the
+                badge's text color here (black in light mode); inherit it from the <abbr> instead.
+              {%- endcomment -%}
+              <div style="color:inherit">{{- entry.abbr -}}</div>
             {% endif %}
           </abbr>
         {% else %}
